@@ -1,0 +1,780 @@
+record,answer,evaluation,relevance
+"{'id': 'romanian-deadlift-014', 'question': 'What kind of equipment do I need to do a Romanian Deadlift and what are its benefits?'}","For a Romanian Deadlift, you'll need dumbbells. 
+
+**Benefits:**
+- Strengthens the hamstrings, glutes, lower back, and core.
+- Enhances hip-hinge movement pattern.
+- Improves flexibility in the hamstrings.
+- Supports better posture and stability.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer addresses the benefits of a Romanian Deadlift well, but the equipment answer is incomplete because it says only dumbbells are needed. Romanian deadlifts can be done with a barbell, dumbbells, kettlebells, or other equipment, so the response only partially answers the question.'}",PARTLY_RELEVANT
+"{'id': 'rowing-machine-050', 'question': 'What type of fitness equipment would you recommend for a compound exercise targeting the legs and back?'}","Based on the context, I recommend using either a **Sled** or **Dumbbells** for compound exercises targeting the legs and back.
+
+1. **Sled Push**: This exercise uses a sled and targets the quadriceps, glutes, calves, core, and shoulders. It's an effective full-body compound exercise.
+
+2. **Dumbbell Step-Up**: This exercise involves dumbbells and targets the quadriceps, glutes, hamstrings, calves, and core, effectively engaging the legs.
+
+3. **Romanian Deadlift**: This exercise with dumbbells focuses on the hamstrings, glutes, lower back, and core, targeting both legs and back effectively.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly recommends fitness equipment suitable for compound exercises targeting the legs and back, specifically sleds and dumbbells, and explains how they support exercises like sled pushes and Romanian deadlifts.'}",RELEVANT
+"{'id': 'sled-push-047', 'question': 'What are the key muscle groups activated when performing a sled push exercise?'}","The key muscle groups activated when performing a sled push exercise are the quadriceps, glutes, calves, core, and shoulders.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing the main muscle groups worked during a sled push, including quadriceps, glutes, calves, core, and shoulders.'}",RELEVANT
+"{'id': 'farmer-carry-033', 'question': ""Can you explain how to properly perform the Farmer's Carry exercise with dumbbells?""}","I'm sorry, but the instructions for the Farmer's Carry exercise with dumbbells are not available in the context provided. Would you like instructions for a different exercise from the list?","{'Relevance': 'NON_RELEVANT', 'Explanation': ""The question asks for instructions on how to properly perform the Farmer's Carry exercise with dumbbells, but the generated answer does not explain the exercise at all. It only says the instructions are unavailable and offers to help with a different exercise, so it fails to address the user's request.""}",NON_RELEVANT
+"{'id': 'shoulder-raise-019', 'question': 'Can you explain how to do a Dumbbell Lateral Raise using dumbbells effectively?'}","I'm sorry, but I don't have specific instructions for performing a Dumbbell Lateral Raise based on the given context. If you need general guidance, I recommend focusing on using proper form, such as keeping a slight bend in the elbows and lifting the weights to shoulder height, while maintaining control and avoiding swinging.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses how to perform a Dumbbell Lateral Raise effectively by mentioning proper form, slight elbow bend, lifting to shoulder height, controlled movement, and avoiding swinging. Although it is somewhat generic, it is clearly relevant to the question.'}",RELEVANT
+"{'id': 'seated-shoulder-press-045', 'question': ""What adjustments should I make on the Seated Shoulder Press Machine to ensure I'm working my shoulders correctly?""}","I'm sorry, the exercises database context provided doesn't contain information on the Seated Shoulder Press Machine. Therefore, I'm unable to provide specific adjustments for that machine. 
+
+For general advice, typically, you should ensure that:
+- The seat height allows the handles to be at shoulder level.
+- Your back is firmly against the backrest.
+- Your feet are flat on the floor for stability.
+- You start with a weight appropriate for your strength level to maintain proper form.
+","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does address the question by giving general setup advice for a seated shoulder press machine, such as seat height, back support, and handle position. However, it is also partly evasive and states it lacks specific information about the machine, so it does not fully answer the question with detailed or definitive adjustments.'}",PARTLY_RELEVANT
+"{'id': 'walking-lunge-012', 'question': 'What kind of exercise is the walking lunge classified as, and what type of activity is it?'}",The walking lunge is classified as a **strength** exercise and it is a **compound** type of activity.,"{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question by stating that the walking lunge is a strength exercise and a compound activity.'}",RELEVANT
+"{'id': 'sled-push-047', 'question': 'How should I position my body and hands when pushing the sled for the best results?'}","To push the sled effectively, you should:
+
+- Load the sled properly.
+- Place your hands on the poles of the sled.
+- Lean your body forward at an angle.
+- Drive through the floor with your legs to push the sled.
+- Keep your torso rigid.
+- Take short and powerful steps.
+
+This positioning will help you maximize strength and conditioning benefits during the sled push exercise.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses how to position the body and hands for sled pushing, including hand placement, forward lean, torso rigidity, and step style. It is clearly relevant to the question, though it also includes one extra unrelated point about loading the sled.'}",RELEVANT
+"{'id': 'assisted-dip-037', 'question': 'What is the proper technique for doing assisted dips using a dip machine?'}","I'm sorry, but the context provided does not include information about the proper technique for doing assisted dips using a dip machine. If you have another question or need information on a different exercise, feel free to ask!","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The answer does not provide any technique or guidance for performing assisted dips on a dip machine. It only states that the context lacks the information and offers to answer another question instead.'}",NON_RELEVANT
+"{'id': 'push-up-001', 'question': 'How should I position my body and hands when performing a push-up for optimal form?'}","To perform a push-up with optimal form, follow these steps:
+
+1. **Position Your Hands:** Place your hands slightly wider than shoulder-width apart on the floor.
+
+2. **Body Alignment:** Keep your body in a straight line from your head to your heels. This means your hips should not sag or rise excessively.
+
+3. **Core Engagement:** Brace your core throughout the movement to maintain stability and alignment.
+
+4. **Lowering Phase:** Bend your elbows and lower your chest toward the floor while keeping your elbows close to your body.
+
+5. **Brief Pause:** Pause briefly near the bottom of the movement.
+
+6. **Press Upward:** Press through your palms to return to the starting high plank position.
+
+Maintaining a straight body alignment and engaging your core are essential to performing push-ups effectively and safely.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses how to position the body and hands for a push-up, including hand placement, straight body alignment, and core engagement. It provides relevant form guidance that matches the question.'}",RELEVANT
+"{'id': 'wall-sit-049', 'question': 'Can you provide detailed instructions for doing a wall sit as a part of my strength training routine?'}","I'm sorry, but the context provided does not include instructions for performing a wall sit. Would you like general guidance or tips based on common practices for wall sits?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer acknowledges the topic of wall sits and offers to provide general guidance, but it does not actually give the detailed instructions requested. It is related to the question, but incomplete.'}",PARTLY_RELEVANT
+"{'id': 'pec-fly-038', 'question': 'Is the Pec Deck Fly an isolation exercise and which body parts does it focus on?'}","Yes, the Pec Deck Fly is an isolation exercise. It primarily focuses on the chest muscles, specifically targeting the pectorals.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it confirms that the Pec Deck Fly is an isolation exercise and identifies the chest/pectorals as the primary focus.'}",RELEVANT
+"{'id': 'calf-raise-024', 'question': 'Can you tell me what muscle groups are activated when doing a Standing Calf Raise?'}","The context provided does not include information about the Standing Calf Raise. However, generally, the primary muscle group activated during a Standing Calf Raise is the calves, specifically the gastrocnemius and soleus muscles.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the muscle groups activated during a Standing Calf Raise, namely the gastrocnemius and soleus in the calves.'}",RELEVANT
+"{'id': 'assisted-dip-037', 'question': 'Can you explain how to adjust the machine for assisted dips?'}","I'm sorry, but the context provided does not include information on adjusting the machine for assisted dips. If you have a more specific query or need further assistance, please let me know!","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not explain how to adjust the machine for assisted dips, so it fails to directly answer the question. However, it is still related to the topic because it acknowledges the query and states that the provided context lacks the needed information, which is partially relevant.'}",PARTLY_RELEVANT
+"{'id': 'mountain-climber-026', 'question': 'Is Mountain Climber considered a cardio exercise, and what kind of equipment do I need for it?'}","Yes, Mountain Climber is considered a cardio exercise. It requires no equipment as it's a bodyweight exercise.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it states that Mountain Climber is a cardio exercise and that it requires no equipment, which matches the requested information.'}",RELEVANT
+"{'id': 'seated-row-016', 'question': 'Is the Seated Cable Row considered a compound exercise, and if so, why?'}","The context provided does not include information on the Seated Cable Row. However, based on general knowledge, the Seated Cable Row is considered a compound exercise. This is because it activates multiple muscle groups, including the back (latissimus dorsi, rhomboids), shoulders (rear delts), and arms (biceps), which are typically engaged in compound movements.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that the Seated Cable Row is a compound exercise and explains why: it engages multiple muscle groups. Even though it mentions the context lacks specific information, the answer still provides the requested relevance and rationale.'}",RELEVANT
+"{'id': 'assisted-dip-037', 'question': 'What are the key instructions I should follow for performing assisted dips correctly?'}","I'm sorry, but the context provided does not include instructions for performing assisted dips. If you have any other questions or need guidance on available exercises, feel free to ask!","{'Relevance': 'NON_RELEVANT', 'Explanation': ""The answer does not provide any instructions for performing assisted dips. It only states that the context is missing and offers to help with other questions, so it does not address the user's request.""}",NON_RELEVANT
+"{'id': 'kettlebell-swing-011', 'question': 'Can you explain what muscle groups are activated when doing kettlebell swings and how they contribute to a full-body workout?'}","I'm sorry, but the context provided does not include information about kettlebell swings. Would you like general information or guidance unrelated to the given context?","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The generated answer does not address the question about kettlebell swings or the muscle groups involved. It only states that the context lacks information and offers unrelated help, so it fails to provide relevant content.'}",NON_RELEVANT
+"{'id': 'barbell-deadlift-006', 'question': 'What type of equipment do I need to do a barbell deadlift, and is it suitable for full body workouts?'}","The Context doesn't provide specific information about the barbell deadlift. However, for a barbell deadlift, you would typically need a barbell and weight plates. It is indeed suitable for full body workouts, as it activates multiple muscle groups including the back, legs, and core.","{'Relevance': 'RELEVANT', 'Explanation': ""The answer directly addresses both parts of the question: it identifies the equipment needed for a barbell deadlift and states that it is suitable for full body workouts. Although it mentions that the context doesn't provide specific information, the substantive response is on-topic and relevant.""}",RELEVANT
+"{'id': 'lat-pulldown-015', 'question': 'What type of equipment do I need to use for the lat pulldown, and what body part does it primarily target?'}","To perform a lat pulldown, you'll need a **lat pulldown machine**, which includes a cable system and pulldown bar. This exercise primarily targets the **latissimus dorsi** muscles of the back.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question by identifying the required equipment (a lat pulldown machine with cable system and bar) and stating the primary target muscle group (latissimus dorsi/back).'}",RELEVANT
+"{'id': 'back-extension-046', 'question': 'What is the correct way to perform a back extension exercise on a bench?'}","I'm sorry, but the context provided does not include instructions for performing a back extension exercise on a bench. Let me know if there's anything else I can help you with!","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not actually explain how to perform a back extension on a bench, so it fails to answer the question. However, it is still related to the question topic because it acknowledges the requested exercise and states that the context lacks instructions.'}",PARTLY_RELEVANT
+"{'id': 'dumbbell-lunge-007', 'question': 'How do I ensure I’m using the correct form while doing Dumbbell Reverse Lunges?'}","I don't have specific information on Dumbbell Reverse Lunges for ensuring correct form. However, here's a general guideline for performing reverse lunges correctly:
+
+1. **Start Position:** Stand upright with feet hip-width apart, holding a dumbbell in each hand with arms at your sides.
+
+2. **Step Back:** Take a step backward with one leg, lowering your hips until both knees are bent at about a 90-degree angle.
+
+3. **Front Knee Alignment:** Keep your front knee directly above your ankle.
+
+4. **Lower Body Control:** Lower your body until your back knee nearly touches the ground.
+
+5. **Core Engagement:** Keep your core tight to maintain balance.
+
+6. **Return to Start:** Press through the heel of your front foot to bring the back leg forward and return to the starting position.
+
+Repeat on the other side and ensure your movements are controlled and deliberate to maintain balance and effectiveness.","{'Relevance': 'RELEVANT', 'Explanation': ""The answer directly addresses how to ensure correct form for dumbbell reverse lunges by giving practical form cues such as stance, stepping back, knee alignment, core engagement, and controlled movement. Although it does not provide highly specific or advanced guidance, it is clearly relevant to the user's question.""}",RELEVANT
+"{'id': 'bicep-curl-020', 'question': 'What is the proper technique for performing a Dumbbell Bicep Curl?'}","I'm sorry, I don't have any information on Dumbbell Bicep Curls in the current context. If you need guidance on this exercise, please ask elsewhere, and I'll be happy to help!","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The question asks for the proper technique for performing a Dumbbell Bicep Curl, but the generated answer does not provide any technique or useful information. It only states that it lacks information and redirects elsewhere, so it is not relevant to answering the question.'}",NON_RELEVANT
+"{'id': 'pec-fly-038', 'question': 'Can you explain the main muscle groups targeted by the Pec Deck Fly?'}","The Pec Deck Fly mainly targets the chest muscles, specifically the pectoralis major. It also involves the anterior deltoids (front of the shoulders) and, to a lesser degree, the triceps.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly explains the main muscle groups targeted by the Pec Deck Fly, identifying the pectoralis major as the primary target and noting supporting muscles.'}",RELEVANT
+"{'id': 'ab-crunch-025', 'question': 'What muscles are targeted when performing a Cable Crunch using a cable machine?'}","The context you provided does not include information about the Cable Crunch exercise. Therefore, I can't provide a specific answer from the provided details. However, typically, a Cable Crunch primarily targets the abdominal muscles, specifically the rectus abdominis. 
+
+If you need detailed information on this exercise, I recommend consulting an exercise database or a fitness professional.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the muscles targeted during a Cable Crunch, specifically the abdominal muscles and rectus abdominis. Although it includes a caveat about missing context, the core information is relevant and answers the question.'}",RELEVANT
+"{'id': 'calf-raise-024', 'question': 'How do I perform the Standing Calf Raise correctly to ensure I get the best results?'}","The context does not provide specific instructions for the Standing Calf Raise. However, here's a general guide on how to perform a Standing Calf Raise correctly:
+
+1. **Positioning**: Start by standing upright with your feet shoulder-width apart. You can use a weight for added resistance, such as holding a dumbbell in each hand, or perform the exercise using your body weight.
+
+2. **Foot Placement**: Stand with the balls of your feet on the edge of a step or platform, with your heels hanging off. This will allow for a greater range of motion.
+
+3. **Execution**: 
+   - Engage your core and maintain a straight posture.
+   - Press through the balls of your feet to lift your heels as high as possible.
+   - Pause briefly at the top of the movement to maximize calf contraction.
+   - Slowly lower your heels back to the starting position, allowing for a stretch in the calves.
+
+4. **Breathing**: Inhale as you lower your heels and exhale as you raise them.
+
+5. **Repetitions**: Aim for 3 sets of 10-15 repetitions, ensuring controlled movements for effectiveness.
+
+Make sure to maintain balance and control throughout the exercise to prevent any strain or injury.","{'Relevance': 'RELEVANT', 'Explanation': ""The answer directly explains how to perform the Standing Calf Raise correctly, including setup, execution, breathing, and repetitions. It addresses the user's request for proper technique and best results.""}",RELEVANT
+"{'id': 'rowing-machine-050', 'question': 'Can you explain the proper technique for using a rowing machine?'}","I'm sorry, but our exercises database doesn't include information on using a rowing machine. Let me know if there is anything else I can help with!","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': ""The answer does not explain the proper technique for using a rowing machine, so it fails to address the user's request directly. However, it is still related to the question topic by acknowledging the rowing machine and referencing a lack of relevant information.""}",PARTLY_RELEVANT
+"{'id': 'renegade-row-048', 'question': 'What body parts does the Renegade Row specifically target during the workout?'}","The Renegade Row specifically targets the core, shoulders, and upper back, primarily focusing on the latissimus dorsi, rhomboids, and stabilizing muscles in the arms and core.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses which body parts the Renegade Row targets, naming the core, shoulders, upper back, and specific muscles involved. It is clearly relevant to the question.'}",RELEVANT
+"{'id': 'overhead-press-008', 'question': 'What type of equipment do I need for the Barbell Overhead Press exercise?'}","For the Barbell Overhead Press exercise, you will need a barbell.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the required equipment for the Barbell Overhead Press as a barbell.'}",RELEVANT
+"{'id': 'incline-dumbbell-curl-044', 'question': 'Which muscle groups are activated when doing an Incline Dumbbell Curl?'}","Based on the provided context, the Incline Dumbbell Curl is not explicitly listed in the database. However, generally speaking, incline dumbbell curls primarily activate the biceps, specifically targeting the long head to enhance the peak of the muscle.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the muscle groups activated during an Incline Dumbbell Curl, namely the biceps and especially the long head. Although it notes the exercise was not explicitly in the provided context, the response still gives a relevant and correct general explanation.'}",RELEVANT
+"{'id': 'back-extension-046', 'question': 'Which muscle groups are activated when doing back extensions?'}","The context provided doesn't include information specifically about back extensions. However, typically, back extensions primarily activate the following muscle groups:
+
+- Erector Spinae (lower back muscles)
+- Glutes
+- Hamstrings
+
+Since this information wasn't in the provided context, please consult a comprehensive fitness resource for specifics on back extensions.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing the main muscle groups typically activated during back extensions: erector spinae, glutes, and hamstrings. Although it mentions the context is missing, the content is still relevant and answers the question.'}",RELEVANT
+"{'id': 'bent-over-row-009', 'question': 'What body parts are primarily engaged when doing the Bent-Over Barbell Row?'}","The Bent-Over Barbell Row primarily engages the lats, rhomboids, rear delts, and biceps.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by naming the primary body parts engaged during the Bent-Over Barbell Row, which matches the requested information.'}",RELEVANT
+"{'id': 'glute-bridge-013', 'question': ""I'm looking for exercises to activate my glutes and hamstrings; can you provide some detailed instructions?""}","To activate your glutes and hamstrings, you can try the following exercises based on the context provided:
+
+1. **Dumbbell Step-Up:**
+   - **Equipment:** Dumbbells
+   - **Instructions:** 
+     1. Hold dumbbells at your sides and stand in front of a box or bench.
+     2. Place one foot firmly on the surface.
+     3. Drive through that heel to step up, bringing the other leg up with control.
+     4. Step back down and switch legs or complete all reps on one side before switching.
+
+2. **Romanian Deadlift:**
+   - **Equipment:** Dumbbells
+   - **Instructions:** 
+     1. Stand with dumbbells in front of your thighs, knees slightly bent.
+     2. Push your hips back, keeping weights close to your legs and back neutral.
+     3. Lower until you feel a stretch in the hamstrings.
+     4. Drive your hips forward to stand back up.
+
+3. **Barbell Hip Thrust:**
+   - **Equipment:** Barbell
+   - **Instructions:** 
+     1. Sit on the floor with your upper back against a bench and a barbell over your hips.
+     2. Plant your feet shoulder-width apart.
+     3. Drive through your heels to lift your hips until your torso is parallel to the floor.
+     4. Squeeze your glutes at the top, then lower under control.
+
+These exercises target the glutes and hamstrings effectively. Make sure to maintain proper form to maximize their benefits.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the request by providing exercises specifically aimed at activating the glutes and hamstrings, along with detailed step-by-step instructions for each exercise.'}",RELEVANT
+"{'id': 'pistol-squat-042', 'question': 'Which muscle groups are primarily worked when doing Pistol Squats?'}","The muscle groups primarily worked when doing Pistol Squats are the quadriceps, glutes, hamstrings, and core.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing the primary muscle groups worked during pistol squats: quadriceps, glutes, hamstrings, and core.'}",RELEVANT
+"{'id': 'farmer-carry-033', 'question': ""What is the Farmer's Carry exercise and what type of strength or conditioning does it focus on?""}","The Farmer's Carry exercise is not detailed in the provided context. However, generally speaking, a Farmer's Carry involves holding weights in each hand and walking a certain distance or for a set amount of time, focusing on grip strength, core stability, and overall conditioning.","{'Relevance': 'RELEVANT', 'Explanation': ""The answer directly explains what a Farmer's Carry is and identifies the type of strength/conditioning it targets, including grip strength, core stability, and overall conditioning. Although it notes the provided context is missing, the substantive answer is on topic and addresses the question.""}",RELEVANT
+"{'id': 'back-extension-046', 'question': 'What precautions should I take to avoid injury while doing back extensions?'}","I'm sorry, the context provided doesn't include specific exercises for back extensions or the precautions to take while performing them. However, general precautions to avoid injury during back extensions include:
+
+1. **Warm-Up**: Ensure you warm up your lower back and core muscles before starting.
+   
+2. **Proper Form**: Avoid hyperextending your lower back. Keep your movements controlled and within a safe range.
+
+3. **Starting Position**: Lie face down on a mat with legs straight and arms extended overhead or hands clasped behind your head.
+
+4. **Core Engagement**: Engage your core throughout to protect your spine.
+
+5. **Gradual Intensity**: Start with a smaller range of motion and gradually increase as you build strength.
+
+6. **Breathing**: Breathe steadily throughout the exercise.
+
+7. **Listen to Your Body**: Stop if you feel any sharp pain or discomfort.
+
+Consulting a fitness professional for personalized guidance is also advisable.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing practical precautions for avoiding injury during back extensions, such as warming up, maintaining proper form, avoiding hyperextension, engaging the core, and stopping if pain occurs.'}",RELEVANT
+"{'id': 'overhead-press-008', 'question': 'Is the Barbell Overhead Press a compound exercise, and if so, why?'}","Yes, the Barbell Overhead Press is a compound exercise. Compound exercises involve multiple joints and muscle groups, and in the case of the Barbell Overhead Press, it engages the shoulders, triceps, and various stabilizing muscles throughout the core and upper back. Although not directly mentioned in the context provided, based on the definition of compound exercises, the Barbell Overhead Press fits this category.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by confirming that the Barbell Overhead Press is a compound exercise and explaining why: it uses multiple joints and muscle groups, including the shoulders, triceps, and stabilizing muscles.'}",RELEVANT
+"{'id': 'dumbbell-lunge-007', 'question': 'Can you tell me which muscle groups are activated when doing Dumbbell Reverse Lunges?'}","The context does not explicitly mention dumbbell reverse lunges. However, based on common exercise knowledge, dumbbell reverse lunges typically activate the quadriceps, glutes, hamstrings, and core, similar to exercises like the Dumbbell Step-Up listed in the context.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer directly addresses the question by naming the muscle groups typically activated during dumbbell reverse lunges. However, it also admits the context does not explicitly mention this exercise and relies on general exercise knowledge rather than the provided context, so it is only partially relevant.'}",PARTLY_RELEVANT
+"{'id': 'pull-up-004', 'question': 'Can you tell me about the type of exercise Pull-Ups are and which body part they primarily target?'}","Pull-Ups are a strength exercise primarily targeting the back. They are a compound movement involving multiple muscle groups, including the latissimus dorsi, biceps, rear delts, and upper back. Pull-Ups are performed using a pull-up bar.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it identifies pull-ups as a strength exercise and states that they primarily target the back. It also adds supporting detail about involved muscle groups.'}",RELEVANT
+"{'id': 'renegade-row-048', 'question': 'Which muscle groups are activated when doing the Renegade Row?'}","The Renegade Row primarily activates the following muscle groups:
+
+- Lats
+- Rhomboids
+- Core
+- Biceps
+
+This exercise combines a rowing movement with core stabilization, engaging multiple upper body and core muscles.","{'Relevance': 'RELEVANT', 'Explanation': ""The answer directly addresses the question by listing the main muscle groups activated during the Renegade Row and briefly explaining the exercise's engagement of upper body and core muscles.""}",RELEVANT
+"{'id': 'pistol-squat-042', 'question': 'What is a Pistol Squat and how do I perform it correctly?'}","I'm sorry, but the context provided does not include information on ""Pistol Squats."" Would you like tips on another exercise from the database?","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The answer does not explain what a pistol squat is or how to perform it. It only says the context lacks information and offers an unrelated alternative, so it fails to address the question.'}",NON_RELEVANT
+"{'id': 'pull-up-004', 'question': 'What is the correct grip width for Pull-Ups to ensure proper form?'}","For Pull-Ups, the correct grip width is slightly wider than shoulder-width with palms facing away. This ensures proper form and engages the intended muscle groups effectively.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating the recommended grip width for pull-ups and describes the correct hand orientation for proper form.'}",RELEVANT
+"{'id': 'shoulder-raise-019', 'question': 'What type of exercise is the Dumbbell Lateral Raise and what body part does it target?'}","The Dumbbell Lateral Raise is not explicitly listed in the context. However, generally speaking, the Dumbbell Lateral Raise targets the shoulders, specifically the lateral deltoids.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer correctly identifies that the Dumbbell Lateral Raise targets the shoulders, especially the lateral deltoids. However, it does not clearly answer what type of exercise it is, and it notes that the exercise is not explicitly listed in the context, which makes it only partially responsive to the question.'}",PARTLY_RELEVANT
+"{'id': 'tricep-pushdown-021', 'question': 'What equipment do I need to perform a Cable Triceps Pushdown exercise?'}","The context provided does not include information on the Cable Triceps Pushdown exercise. Therefore, based on standard gym practice, for a Cable Triceps Pushdown, you typically need a cable machine equipped with a pulley and a rope attachment.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating the equipment needed for a Cable Triceps Pushdown: a cable machine with a pulley and a rope attachment. Although it mentions the context is missing, it still provides a relevant and useful answer.'}",RELEVANT
+"{'id': 'dumbbell-lunge-007', 'question': 'Is the Dumbbell Reverse Lunge a compound exercise, and what are its benefits?'}","The Dumbbell Reverse Lunge is not specifically listed in the provided exercises. However, based on general fitness knowledge, the Dumbbell Reverse Lunge is indeed a compound exercise. It involves multiple joints and muscle groups such as the quadriceps, hamstrings, glutes, and core. The benefits of this exercise include improved balance, coordination, leg strength, and stability. It can also help in enhancing functional movement patterns.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it states that the Dumbbell Reverse Lunge is a compound exercise and explains its benefits, such as improved balance, coordination, leg strength, and stability. Although it notes the exercise was not specifically listed in the provided material, the response is still relevant and answers the question.'}",RELEVANT
+"{'id': 'hamstring-curl-023', 'question': 'What is an effective isolation exercise for strengthening my hamstrings?'}","The context provided does not include any specific isolation exercises for the hamstrings. However, based on general fitness knowledge, an effective isolation exercise for strengthening the hamstrings is the ""Leg Curl"" using a machine, resistance band, or lying face down while curling the legs toward the glutes.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by naming an effective isolation exercise for hamstring strengthening: the leg curl. It is on-topic and provides a clear, relevant recommendation.'}",RELEVANT
+"{'id': 'overhead-press-008', 'question': 'What is the best way to perform a Barbell Overhead Press for shoulder strength?'}","I'm sorry, but the context provided doesn't include information on performing a Barbell Overhead Press. If you have any other questions or need information on a different exercise, feel free to ask!","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The question asks for the best way to perform a Barbell Overhead Press, but the generated answer does not provide any technique or guidance. It only states that the context lacks information and offers no useful content relevant to the exercise.'}",NON_RELEVANT
+"{'id': 'plank-003', 'question': 'Can you explain how to do an isometric core exercise like the plank?'}","I'm sorry, but the context does not provide details on how to perform an isometric core exercise like the plank. Let me know if there's anything else I can help you with!","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer acknowledges the question about an isometric core exercise like the plank, but it does not actually explain how to do it. It is only indirectly related and mostly deflects due to missing context.'}",PARTLY_RELEVANT
+"{'id': 'barbell-deadlift-006', 'question': 'What are the key steps I should follow to perform a barbell deadlift correctly?'}","I'm sorry, but the context provided does not include details on performing a barbell deadlift. Would you like information on one of the exercises listed instead?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not provide the requested steps for performing a barbell deadlift, so it fails to directly answer the question. However, it is loosely related because it acknowledges the exercise context and indicates the missing information, making it only partially relevant.'}",PARTLY_RELEVANT
+"{'id': 'push-up-001', 'question': 'What is a good bodyweight exercise to strengthen my chest and triceps without any equipment?'}","A good bodyweight exercise to strengthen your chest and triceps without any equipment is the **Push-Up**. 
+
+To perform a push-up:
+
+- Start in a high plank position with your hands slightly wider than shoulder-width apart.
+- Keep your body in a straight line from head to heels.
+- Lower your chest toward the floor by bending your elbows.
+- Pause briefly near the bottom, then press through your palms to return to the starting position.
+- Keep your core braced throughout the exercise.
+
+This exercise primarily activates the chest, triceps, and shoulders.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by recommending a bodyweight exercise that requires no equipment and targets the chest and triceps. The push-up is an appropriate and accurate example.'}",RELEVANT
+"{'id': 'back-extension-046', 'question': 'Can you explain how to set up and perform a back extension on a back extension bench?'}","I'm sorry, but I don't have specific details about setting up and performing a back extension on a back extension bench based on the provided context. Would you like information on another exercise?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not explain how to set up or perform a back extension, so it fails to address the user’s request. However, it is at least about the same exercise topic and acknowledges the missing information, making it partially relevant rather than completely off-topic.'}",PARTLY_RELEVANT
+"{'id': 'chest-press-machine-018', 'question': 'What is the best way to use the chest press machine for effective strength training?'}","The context does not provide specific instructions for using a chest press machine. However, for effective strength training with the chest press machine, here are some general tips:
+
+1. **Adjust the Seat:** Ensure the seat is at the right height so that the handles are in line with your mid-chest level.
+
+2. **Set Weight Appropriately:** Start with a manageable weight that allows you to perform exercises with proper form.
+
+3. **Grip and Posture:** Keep your back flat against the seat and grip the handles firmly. Your feet should be flat on the floor.
+
+4. **Execution:** Press the handles forward until your arms are fully extended without locking your elbows. Control the movement as you return to the starting position.
+
+5. **Breathing:** Exhale as you press forward and inhale as you return to the starting position.
+
+6. **Repetitions and Sets:** Aim for 8-12 repetitions per set, with 2-3 sets, depending on your strength training goals.
+
+Always focus on maintaining proper form to avoid injury and enhance effectiveness.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by giving practical guidance on how to use the chest press machine effectively for strength training, including seat adjustment, weight selection, posture, execution, breathing, and reps/sets.'}",RELEVANT
+"{'id': 'hamstring-curl-023', 'question': 'What muscles are activated when doing a lying hamstring curl?'}","The context does not provide specific information about a lying hamstring curl. However, generally, the primary muscles activated in a lying hamstring curl are the hamstrings, which are located at the back of the thigh.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the primary muscles activated during a lying hamstring curl as the hamstrings. Although it adds a note about the context not providing specifics, the core information is relevant and correct.'}",RELEVANT
+"{'id': 'jump-rope-030', 'question': 'What type of exercise is jump rope considered in terms of fitness classification?'}",Jump rope is considered a **cardiovascular exercise**.,"{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by classifying jump rope as a cardiovascular exercise, which is a valid fitness classification.'}",RELEVANT
+"{'id': 'step-up-035', 'question': 'Which muscles are primarily worked by the Dumbbell Step-Up exercise?'}","The Dumbbell Step-Up exercise primarily works the Quadriceps, Glutes, Hamstrings, Calves, and Core muscles.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by naming the primary muscles worked by the Dumbbell Step-Up exercise. It is relevant and provides the expected fitness information.'}",RELEVANT
+"{'id': 'calf-raise-024', 'question': 'What equipment do I need for the Standing Calf Raise exercise?'}","The context provided doesn't include information on the Standing Calf Raise. However, typically for this exercise, you might need the following equipment:
+
+- **Calf Raise Machine**: Many gyms have a dedicated machine for calf raises.
+- **Dumbbells or Barbells**: These can be used if you're doing standing calf raises without a machine.
+- **Elevated Surface**: Such as a step or platform to allow a greater range of motion.
+
+Please check with your specific gym or resources for precise equipment availability.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing typical equipment needed for the Standing Calf Raise exercise, including a calf raise machine, dumbbells/barbells, and an elevated surface. Although it notes the context lacked specific information, the response still provides useful and relevant equipment guidance.'}",RELEVANT
+"{'id': 'calf-raise-024', 'question': 'Is the Standing Calf Raise an isolation exercise, and if so, what body part does it target?'}","Yes, the Standing Calf Raise is considered an isolation exercise. It targets the calves specifically.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it confirms that the Standing Calf Raise is an isolation exercise and states that it targets the calves.'}",RELEVANT
+"{'id': 'barbell-deadlift-006', 'question': 'What are the main benefits of including the barbell deadlift in my strength training routine?'}","The context doesn't provide specific information about the barbell deadlift. However, I can share the general benefits of the barbell deadlift outside this context:
+
+1. **Full-Body Engagement**: Primarily targets the posterior chain, including glutes, hamstrings, lower back, and traps, while also engaging the core and grip muscles.
+   
+2. **Strength and Power Development**: Boosts overall strength and power, beneficial for performance in other lifts and athletic activities.
+
+3. **Improved Posture**: Strengthens the back and core, contributing to better posture and alignment.
+
+4. **Functional Movement**: Mimics real-life movements such as lifting objects, enhancing functional strength and injury prevention.
+
+5. **Hormonal Benefits**: Stimulates the release of anabolic hormones like testosterone and growth hormone, aiding muscle growth. 
+
+As always, ensure proper form and progression to avoid injury.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing the main benefits of including the barbell deadlift in a strength training routine, such as full-body engagement, strength and power development, improved posture, functional movement, and hormonal benefits.'}",RELEVANT
+"{'id': 'pull-up-004', 'question': 'Which muscle groups are activated when I do Pull-Ups?'}","Pull-Ups activate the following muscle groups: Latissimus Dorsi, Biceps, Rear Delts, and Upper Back.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing the muscle groups activated during pull-ups. It is concise and on-topic, and the listed muscles are appropriate for this exercise.'}",RELEVANT
+"{'id': 'burpee-027', 'question': 'What is the burpee exercise and how is it performed?'}","The burpee exercise is a full-body compound movement performed without equipment. It combines cardio and strength elements. Here's how it's performed:
+
+1. **Start Standing:** Begin by standing tall.
+
+2. **Squat Down:** Lower into a squat position and place your hands on the floor in front of you.
+
+3. **Plank Position:** Jump your feet back, landing in a high plank position. Optionally, perform a push-up.
+
+4. **Return to Squat:** Jump your feet back toward your hands to return to the squat position.
+
+5. **Jump Up:** Explode upward with a small jump, reaching your arms overhead.
+
+6. **Land Softly:** Land gently and immediately transition into the next repetition. 
+
+This exercise activates multiple muscle groups including the chest, legs, shoulders, core, and glutes.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly explains what a burpee is and gives a clear step-by-step description of how to perform it, which fully addresses the question.'}",RELEVANT
+"{'id': 'assisted-dip-037', 'question': 'Which muscle groups do assisted dips primarily target?'}","Assisted dips primarily target the triceps, chest, and shoulders.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the primary muscle groups targeted by assisted dips: triceps, chest, and shoulders.'}",RELEVANT
+"{'id': 'box-jump-031', 'question': 'What is a good power exercise that targets the legs and can be done with a box?'}","One effective power exercise that targets the legs and can be done with a box is the **Dumbbell Step-Up**. 
+
+This exercise uses a box or bench as the elevated surface to step onto, primarily activating the quadriceps, glutes, hamstrings, calves, and core. Here's how to perform it:
+
+- Hold dumbbells at your sides and stand in front of a box or bench.
+- Place one foot firmly on the surface and drive through that heel to step up.
+- Bring the other leg up with control, then step back down.
+- Alternate legs or complete all reps on one side before switching.
+
+This exercise not only builds strength but also enhances power and balance.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly names a leg-focused power exercise that can be done with a box: the Dumbbell Step-Up. It matches the question well and explains how it targets the legs.'}",RELEVANT
+"{'id': 'step-up-035', 'question': 'Can you tell me what equipment I need to do a Dumbbell Step-Up?'}","To perform a Dumbbell Step-Up, you will need dumbbells.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the equipment needed for a Dumbbell Step-Up: dumbbells.'}",RELEVANT
+"{'id': 'pec-fly-038', 'question': 'What instructions should I follow to properly execute the Pec Deck Fly for chest development?'}","I'm sorry, but the instructions for executing the Pec Deck Fly are not available in the provided context.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not provide the requested Pec Deck Fly instructions, so it fails to address the question directly. However, it is still related to the question because it acknowledges the missing exercise guidance rather than giving unrelated information.'}",PARTLY_RELEVANT
+"{'id': 'goblet-squat-010', 'question': 'What type of equipment do I need to do a Goblet Squat?'}","To do a Goblet Squat, you need a dumbbell or a kettlebell.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by naming the equipment needed for a Goblet Squat: a dumbbell or a kettlebell.'}",RELEVANT
+"{'id': 'rear-delt-fly-040', 'question': 'What equipment do I need for the Bent-Over Dumbbell Rear Delt Fly exercise?'}","The Bent-Over Dumbbell Rear Delt Fly is not directly mentioned in the provided context. However, based on similar exercises found in the database, you would typically need dumbbells for this type of exercise.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that the exercise typically requires dumbbells, which is the equipment needed for a Bent-Over Dumbbell Rear Delt Fly. Although it notes the exercise was not directly mentioned in the context, the core information is relevant.'}",RELEVANT
+"{'id': 'bent-over-row-009', 'question': 'What is the Bent-Over Barbell Row exercise and what muscles does it target?'}","The Bent-Over Barbell Row is a strength exercise that uses a barbell. It targets the back and is a compound movement. The primary muscle groups activated during this exercise are the lats, rhomboids, rear delts, and biceps.
+
+Instructions for the exercise include:
+1. Hold a barbell with an overhand grip and hinge forward at the hips until your torso is near parallel to the floor.
+2. Keep a neutral spine and slightly bend your knees.
+3. Pull the bar toward your lower ribs, squeezing your shoulder blades together.
+4. Lower the bar slowly without rounding your back.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly explains what the Bent-Over Barbell Row is and identifies the main muscles it targets, which matches the question. It also provides helpful execution instructions, but the core requested information is fully addressed.'}",RELEVANT
+"{'id': 'hip-thrust-034', 'question': 'What are the key instructions I should follow when doing a Barbell Hip Thrust for strength training?'}","To perform a Barbell Hip Thrust, follow these key instructions:
+
+1. **Starting Position**: Sit on the floor with your upper back against a bench. Position a barbell over your hips.
+
+2. **Foot Placement**: Plant your feet shoulder-width apart on the ground.
+
+3. **Execution**:
+   - Drive through your heels to lift your hips upward.
+   - Continue lifting until your torso is parallel to the floor.
+
+4. **Glute Engagement**: Squeeze your glutes tightly at the top of the movement.
+
+5. **Control**: Lower your hips back to the starting position in a controlled manner.
+
+Maintain proper form throughout to maximize effectiveness and reduce injury risk.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by giving key instructions for performing a Barbell Hip Thrust, including setup, foot placement, execution, glute squeeze, and controlled lowering. It is relevant to strength training and matches the requested topic.'}",RELEVANT
+"{'id': 'jumping-jacks-028', 'question': ""I'm looking for a full-body workout; can you suggest an exercise that works multiple muscle groups?""}","For a full-body workout, I recommend trying the **Burpee**. This exercise activates multiple muscle groups, including the chest, legs, shoulders, core, and glutes. 
+
+### Instructions:
+1. Stand tall, then squat down and place your hands on the floor.
+2. Jump your feet back into a plank position and optionally lower into a push-up.
+3. Jump your feet back toward your hands.
+4. Explode upward with a small jump and land softly.
+5. Repeat the movement.
+
+Burpees offer both strength and cardio benefits, making them a great choice for a comprehensive workout.","{'Relevance': 'RELEVANT', 'Explanation': ""The answer directly suggests a full-body exercise (burpees) and explains that it works multiple muscle groups, which matches the user's request.""}",RELEVANT
+"{'id': 'romanian-deadlift-014', 'question': 'How should I position my body and the dumbbells during a Romanian Deadlift to ensure proper form?'}","To ensure proper form during a Romanian Deadlift with dumbbells:
+
+1. **Starting Position**: Stand with your feet hip-width apart and hold the dumbbells in front of your thighs.
+2. **Knee Position**: Keep your knees slightly bent throughout the movement.
+3. **Hip Hinge**: Push your hips back while keeping the dumbbells close to your legs.
+4. **Back Position**: Maintain a neutral spine and avoid rounding your back.
+5. **Lowering Phase**: Lower the dumbbells until you feel a stretch in your hamstrings, typically when your torso is about parallel with the floor.
+6. **Rising Phase**: Drive your hips forward to return to the standing position.
+
+Focus on controlling the movement and engaging your core for stability.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses how to position the body and dumbbells during a Romanian Deadlift, including stance, knee bend, hip hinge, spine position, dumbbell path, and lowering depth. It is on-topic and provides the requested form guidance.'}",RELEVANT
+"{'id': 'chest-press-machine-018', 'question': 'Is the chest press machine a compound exercise, and what other muscles does it engage besides the chest?'}","Yes, the chest press machine is a compound exercise. Besides engaging the chest, it also works the triceps and shoulders.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it confirms that the chest press machine is a compound exercise and identifies additional muscles worked, namely the triceps and shoulders.'}",RELEVANT
+"{'id': 'sled-push-047', 'question': 'What type of equipment do I need to do a sled push workout?'}","To do a sled push workout, you need a sled.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the equipment needed for a sled push workout: a sled.'}",RELEVANT
+"{'id': 'incline-push-up-036', 'question': 'Can you tell me which muscle groups are worked during an incline push-up?'}","During an incline push-up, the primary muscle groups worked are the chest, triceps, shoulders, and core.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the main muscle groups worked during an incline push-up. It is concise and on-topic.'}",RELEVANT
+"{'id': 'pec-fly-038', 'question': 'What type of equipment do I need to do the Pec Deck Fly exercise?'}","The Pec Deck Fly exercise is not mentioned in our database. However, typically, the Pec Deck Fly requires a pec deck machine at a gym.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that a Pec Deck Fly typically requires a pec deck machine. Although it notes the exercise is not in the database, it still provides the needed equipment information.'}",RELEVANT
+"{'id': 'incline-push-up-036', 'question': 'Is the incline push-up a compound exercise, and how does it benefit my strength training routine?'}","Yes, the incline push-up is a compound exercise. It activates several muscle groups including the chest, triceps, shoulders, and core. Incorporating incline push-ups into your strength training routine can enhance upper body strength and stability, particularly targeting the chest and shoulders with a slightly different angle than traditional push-ups. This variation can be especially beneficial for beginners or those looking to reduce the load compared to standard push-ups, as the incline makes the movement slightly easier while still engaging multiple muscle groups effectively.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it confirms that incline push-ups are a compound exercise and explains how they benefit a strength training routine by engaging multiple muscle groups and improving upper body strength and stability.'}",RELEVANT
+"{'id': 'walking-lunge-012', 'question': 'How can I incorporate walking lunges into my leg workout routine effectively?'}","To incorporate walking lunges into your leg workout routine effectively, consider the following strategy:
+
+1. **Warm-Up**: Start with a light warm-up to get your muscles ready. You might do 5-10 minutes of light cardio, such as jogging or cycling, and some dynamic stretches focusing on the legs.
+
+2. **Exercise Sequence**: After your warm-up, include walking lunges early in your leg workout when your energy levels are higher. Combine them with other leg exercises such as Dumbbell Step-Ups and Bodyweight Squats for a balanced routine.
+
+3. **Form and Technique**: Ensure proper form by keeping your chest up, core engaged, and taking a step forward with one leg. Lower your hips until both knees are at a 90-degree angle, then push through the front heel to bring the back leg forward.
+
+4. **Repetitions and Sets**: Aim for 3-4 sets of 10-15 lunges per leg, depending on your fitness level.
+
+5. **Progression**: As you get stronger, you can increase the difficulty by adding dumbbells for extra resistance or increasing the number of repetitions.
+
+6. **Cool Down**: Finish with static stretches focusing on the legs and hips to improve flexibility and aid recovery.
+
+Walking lunges can be an effective exercise to target the quadriceps, hamstrings, glutes, and core, complementing the other leg-focused exercises in your routine.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses how to incorporate walking lunges into a leg workout routine by giving practical guidance on warm-up, exercise order, sets/reps, form, progression, and cool-down. It is specific, relevant, and answers the question well.'}",RELEVANT
+"{'id': 'chest-press-machine-018', 'question': 'How should I adjust the chest press machine for my height to ensure proper form?'}","I'm sorry, but there are no specific instructions available in the context for adjusting the chest press machine. However, here are some general tips:
+
+1. **Seat Height**: Adjust the seat so that when you grasp the handles, your elbows are at a 90-degree angle. Your hands should be level with your chest.
+
+2. **Backrest Position**: Ensure the backrest supports your back fully, allowing your chest to be open and shoulders pulled back.
+
+3. **Handle Positioning**: Make sure the handles are aligned with the middle of your chest as you press.
+
+4. **Foot Position**: Keep your feet flat on the floor or footrest to maintain stability.
+
+Request further assistance from a gym instructor to ensure the machine is set up correctly for your body.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses how to adjust a chest press machine for proper form by giving practical setup guidance, including seat height, backrest position, handle alignment, and foot placement. It may be generic, but it is clearly relevant to the question.'}",RELEVANT
+"{'id': 'wall-sit-049', 'question': 'What are some effective bodyweight exercises I can do to strengthen my legs?'}","Here are some effective bodyweight exercises you can do to strengthen your legs:
+
+1. **Bodyweight Squat**
+   - **Muscle Groups Activated:** Quadriceps, Glutes, Hamstrings, Core
+   - **Instructions:** Stand with your feet shoulder-width apart, brace your core, and push your hips back while bending your knees. Lower your body until your thighs are at least parallel to the floor, then drive through your heels to return to standing.
+
+2. **Burpee**
+   - **Muscle Groups Activated:** Legs, Glutes, Core, Chest, Shoulders
+   - **Instructions:** Begin standing, squat down to place your hands on the floor, jump back into a plank, and optionally perform a push-up. Jump your feet back toward your hands and jump up as you stand, landing softly.
+
+These exercises will help build strength in your legs and also engage your core and other muscles.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer is relevant because it suggests bodyweight exercises for leg strength, including squats. However, it only provides two exercises and one of them (burpees) is more of a full-body exercise than a targeted leg-strengthening movement, so the response is only partially aligned with the question.'}",PARTLY_RELEVANT
+"{'id': 'rear-delt-fly-040', 'question': 'Is the Bent-Over Dumbbell Rear Delt Fly an isolation exercise, and how should I perform it safely?'}","The Bent-Over Dumbbell Rear Delt Fly is an isolation exercise. To perform it safely:
+
+1. **Starting Position**: Stand with feet shoulder-width apart, holding a dumbbell in each hand. Hinge at the hips, keeping your back straight, and let the weights hang below you.
+
+2. **Form**: Maintain a slight bend in your knees, and keep your back flat.
+
+3. **Movement**: Without swinging, lift the dumbbells out to the sides, focusing on using your rear deltoids. Keep your elbows slightly bent.
+
+4. **Return**: Slowly bring the weights back to the starting position under control.
+
+5. **Safety**: Avoid using too heavy a weight to prevent using momentum. Keep movements controlled and your core engaged to protect your lower back.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it states that the Bent-Over Dumbbell Rear Delt Fly is an isolation exercise and gives clear, practical safety instructions for performing it properly.'}",RELEVANT
+"{'id': 'pistol-squat-042', 'question': 'What type of equipment do I need to do Pistol Squats effectively?'}","To do Pistol Squats effectively, you don't need any equipment. They are a bodyweight exercise that primarily targets the legs, particularly the quadriceps and glutes. Make sure to maintain balance and control throughout the movement.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that no equipment is needed for pistol squats and briefly explains the exercise. This is fully relevant to what type of equipment is needed.'}",RELEVANT
+"{'id': 'shoulder-raise-019', 'question': 'What are the steps to properly perform a Dumbbell Lateral Raise for shoulder development?'}","I'm sorry, but our exercises database does not currently provide instructions for the Dumbbell Lateral Raise. Would you like information on a different exercise?","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The question asks for step-by-step instructions on how to perform a Dumbbell Lateral Raise, but the generated answer does not provide any exercise steps or relevant guidance. It only states that the database lacks the information and offers an alternative.'}",NON_RELEVANT
+"{'id': 'plank-003', 'question': ""How can I ensure I'm doing a plank correctly to engage my core and avoid injury?""}","To ensure you're doing a plank correctly and effectively engaging your core, follow these guidelines based on our push-up exercise instructions:
+
+1. **Start Position**: Begin in a high plank position with your hands directly under your shoulders, slightly wider than shoulder-width apart.
+   
+2. **Body Alignment**: Maintain a straight line from your head to your heels. Your body should be as flat as a board.
+
+3. **Engage Core**: Keep your core braced throughout the exercise. This engagement will help stabilize your spine and avoid sagging or arching your back.
+
+4. **Avoid Injury**:
+   - **Neck**: Keep your neck neutral by gazing at the floor just ahead of your hands.
+   - **Hips**: Avoid letting your hips drop or rise too high. This can strain your lower back.
+
+5. **Breathing**: Continue to breathe normally, do not hold your breath.
+
+By maintaining these points, you'll effectively engage your core while reducing the risk of injury during your plank exercise.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses how to perform a plank correctly, including body alignment, core engagement, neck and hip positioning, and breathing to avoid injury. It is clearly relevant to the question.'}",RELEVANT
+"{'id': 'medicine-ball-slam-032', 'question': 'How should I position my body when executing a medicine ball slam to maximize effectiveness?'}","I'm sorry, but the database does not contain information about executing a medicine ball slam. For guidance on that exercise, it might be helpful to consult a comprehensive fitness resource or a certified trainer.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not provide the requested guidance on body positioning for a medicine ball slam, so it is not fully relevant. However, it is contextually related because it acknowledges the exercise and indicates a lack of specific information rather than addressing an unrelated topic.'}",PARTLY_RELEVANT
+"{'id': 'dumbbell-bench-press-005', 'question': 'Can you tell me which muscle groups are targeted when doing a dumbbell bench press?'}","The dumbbell bench press primarily targets the chest, triceps, and shoulders. 
+
+While this information is not directly listed in the context provided, these are commonly known muscle groups activated during a dumbbell bench press, relevant to exercises with similar muscle engagements like push-ups and incline push-ups.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the main muscle groups targeted during a dumbbell bench press: chest, triceps, and shoulders. It is responsive and on-topic, even though it notes the information is not from the provided context.'}",RELEVANT
+"{'id': 'walking-lunge-012', 'question': 'Can you explain the correct form and technique for doing walking lunges?'}","I'm sorry, but I don't have specific information about walking lunges in the provided context. If you have any other questions relating to the exercises listed, feel free to ask!","{'Relevance': 'NON_RELEVANT', 'Explanation': ""The answer does not explain the form or technique for walking lunges. It only states that no specific information is available and offers to answer other questions, so it fails to address the user's request.""}",NON_RELEVANT
+"{'id': 'seated-shoulder-press-045', 'question': 'Can you provide step-by-step instructions for using the Seated Shoulder Press Machine effectively?'}","I'm sorry, but the context provided does not include specific instructions for using the Seated Shoulder Press Machine. If you have access to instructions or would like advice based on different content, please let me know!","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does address the question indirectly by acknowledging the lack of instructions for the Seated Shoulder Press Machine, but it does not provide the requested step-by-step guidance. It is related to the topic, yet not actually answering the user’s request.'}",PARTLY_RELEVANT
+"{'id': 'walking-lunge-012', 'question': 'What are the main muscles targeted when performing walking lunges?'}","The main muscles targeted when performing walking lunges include the quadriceps, glutes, and hamstrings.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by naming the main muscles targeted during walking lunges: quadriceps, glutes, and hamstrings.'}",RELEVANT
+"{'id': 'leg-extension-022', 'question': 'Can you explain the steps involved in using the leg extension machine?'}","I'm sorry, but I don't have the steps for using the leg extension machine in the provided context. If you need guidance, consulting a trainer or referring to specific equipment instructions at your gym would be advisable.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer addresses the question only indirectly by stating it lacks the steps and suggesting alternative sources. It does not actually explain how to use the leg extension machine, so it is only minimally related to the question.'}",PARTLY_RELEVANT
+"{'id': 'leg-press-017', 'question': 'What are the key instructions to follow for safely performing the leg press exercise?'}","I'm sorry, but I don't have specific instructions for the leg press exercise based on the provided context. Would you like general advice or insights on a different exercise from the context?","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The question asks for key safety instructions for performing the leg press exercise, but the generated answer does not provide any such instructions. It only states that it lacks specific information and offers general advice instead.'}",NON_RELEVANT
+"{'id': 'kettlebell-swing-011', 'question': 'What equipment do I need for kettlebell swings, and how should I set up my body position before starting the exercise?'}","The context does not provide specific information about kettlebell swings. However, generally, to perform kettlebell swings, you would need:
+
+**Equipment:**
+- A kettlebell of appropriate weight.
+
+**Body Position Setup:**
+1. Stand with your feet about shoulder-width apart.
+2. Place the kettlebell on the ground in front of you.
+3. Hinge at your hips with a slight bend in your knees and grip the kettlebell handle with both hands.
+4. Keep your back flat and chest open.
+5. Engage your core and glutes before starting the movement. 
+
+If you have more questions about kettlebell swings or other exercises, feel free to ask!","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question by identifying the needed equipment (a kettlebell) and describing the initial body setup before starting kettlebell swings (stance, grip, hip hinge, posture, and core engagement).'}",RELEVANT
+"{'id': 'burpee-027', 'question': 'What muscle groups are activated when performing burpees?'}","When performing burpees, the muscle groups activated are: chest, legs, shoulders, core, and glutes.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing the muscle groups activated during burpees, which is exactly what was asked.'}",RELEVANT
+"{'id': 'incline-push-up-036', 'question': 'What type of exercise is an incline push-up, and what equipment do I need for it?'}","An incline push-up is a strength exercise that targets the chest, triceps, shoulders, and core. It is classified as a compound exercise and requires no equipment other than an elevated surface like a bench or a box to place your hands on.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it identifies incline push-ups as a strength/compound exercise and explains that no special equipment is needed beyond an elevated surface such as a bench or box.'}",RELEVANT
+"{'id': 'bicep-curl-020', 'question': 'Is the Dumbbell Bicep Curl considered an isolation exercise, and why?'}","Yes, the Dumbbell Bicep Curl is considered an isolation exercise. This is because it primarily targets the biceps muscle and involves movement at only one joint (the elbow), focusing on one main muscle group rather than multiple muscle groups, which is typical of compound exercises listed in the context.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that the Dumbbell Bicep Curl is an isolation exercise and explains why: it mainly targets the biceps and involves movement at a single joint (the elbow).'}",RELEVANT
+"{'id': 'ab-crunch-025', 'question': 'What type of equipment do I need to perform the Cable Crunch exercise?'}","The context does not provide information about the Cable Crunch exercise. Therefore, I cannot specify the equipment needed based on the provided data. Typically, a cable crunch is performed using a cable machine, but for specific details, please consult a reliable source or a fitness professional.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that a cable crunch is typically performed using a cable machine, which is the equipment needed.'}",RELEVANT
+"{'id': 'bent-over-row-009', 'question': 'Which equipment do I need for the Bent-Over Barbell Row exercise?'}","For the Bent-Over Barbell Row exercise, you need a barbell.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the required equipment for the Bent-Over Barbell Row exercise: a barbell.'}",RELEVANT
+"{'id': 'pull-up-004', 'question': 'What type of equipment do I need to perform Pull-Ups?'}","To perform Pull-Ups, you need a Pull-Up Bar.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the equipment needed for pull-ups: a pull-up bar.'}",RELEVANT
+"{'id': 'squat-002', 'question': 'What are some effective bodyweight exercises I can do to strengthen my legs?'}","Here are some effective bodyweight exercises to strengthen your legs:
+
+1. **Bodyweight Squat**
+   - **Muscle Groups Activated:** Quadriceps, Glutes, Hamstrings, Core
+   - **Instructions:** Stand with feet shoulder-width apart, toes slightly turned out. Brace your core, push your hips back, and bend your knees. Lower until thighs are at least parallel to the floor, then drive through your heels to stand back up. Keep your chest lifted and knees tracking over your toes.
+
+2. **Burpee**
+   - **Muscle Groups Activated:** Chest, Legs, Shoulders, Core, Glutes
+   - **Instructions:** Start standing, squat down and place hands on the floor. Jump feet back into a plank position and optionally do a push-up. Jump feet back toward hands and explode upward with a small jump. Land softly and repeat. Although full-body, burpees engage the legs significantly. 
+
+These exercises are great for building leg strength without any equipment.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing effective bodyweight exercises for strengthening the legs, including bodyweight squats and burpees, and explains how they work the leg muscles.'}",RELEVANT
+"{'id': 'pec-fly-038', 'question': 'What is the correct way to perform a Pec Deck Fly exercise using a machine?'}","I'm sorry, the context provided doesn't include instructions for the Pec Deck Fly exercise using a machine. Would you like to know more about any of the exercises listed?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not explain how to perform a Pec Deck Fly exercise, so it fails to directly answer the question. However, it does acknowledge the topic and mentions that the needed instructions are missing, making it somewhat related to the question.'}",PARTLY_RELEVANT
+"{'id': 'leg-extension-022', 'question': 'How does the leg extension exercise target my quadriceps?'}","I'm sorry, but the context provided does not include information about the leg extension exercise. Would you like information on exercises that target the quadriceps?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not explain how the leg extension targets the quadriceps, which is the main question. However, it is related to the topic by acknowledging the exercise and mentioning quadriceps-targeting exercises, so it is not completely irrelevant.'}",PARTLY_RELEVANT
+"{'id': 'goblet-squat-010', 'question': 'Is the Goblet Squat a full body exercise or does it focus on specific body parts?'}","The Goblet Squat is not explicitly listed in the context you provided, but generally, it is similar to the Bodyweight Squat, which is mentioned. The Goblet Squat primarily focuses on specific body parts: the legs, including the quadriceps, glutes, hamstrings, and core. While it engages multiple muscle groups, it would not be classified as a full body exercise.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer addresses the question by stating that the Goblet Squat is not a full body exercise and instead focuses on specific muscle groups. However, it appears to rely on general fitness knowledge rather than the provided context, and it introduces uncertainty by saying the Goblet Squat is not explicitly listed in the context.'}",PARTLY_RELEVANT
+"{'id': 'ab-wheel-041', 'question': 'Can you explain the muscle groups that are activated when I do the Ab Wheel Rollout exercise?'}","I can't provide specific information about the muscle groups activated during the Ab Wheel Rollout since it's not included in the given context. However, generally, the Ab Wheel Rollout primarily targets the core, including the rectus abdominis, obliques, and transverse abdominis, as well as engaging the shoulders and back muscles for stability. For more detailed information, it's best to consult a specific resource focused on the Ab Wheel Rollout.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by explaining the muscle groups activated during the Ab Wheel Rollout, including the core muscles, shoulders, and back for stability. Although it includes a brief disclaimer about missing context, the main content is relevant and responsive to the question.'}",RELEVANT
+"{'id': 'romanian-deadlift-014', 'question': 'Can you provide instructions on how to properly perform a Romanian Deadlift with dumbbells?'}","To properly perform a Romanian Deadlift with dumbbells:
+
+1. **Starting Position**: Stand upright with a dumbbell in each hand, palms facing your thighs. Keep your feet hip-width apart and knees slightly bent.
+
+2. **Engage Core**: Brace your core to maintain stability throughout the movement.
+
+3. **Hip Hinge**: Begin by pushing your hips back, not by bending at the waist. The dumbbells should glide down the front of your thighs.
+
+4. **Lowering**: Continue pushing your hips back, lowering the dumbbells until you feel a stretch in your hamstrings. Keep a neutral spine throughout the movement.
+
+5. **Return to Start**: Drive your hips forward and stand tall to return to the starting position.
+
+6. **Breathing**: Inhale as you lower, exhale as you stand back up.
+
+Ensure your back remains straight and avoid rounding your shoulders.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by providing clear, step-by-step instructions for performing a Romanian Deadlift with dumbbells, including setup, movement mechanics, breathing, and safety cues.'}",RELEVANT
+"{'id': 'lat-pulldown-015', 'question': 'What is the proper way to perform a lat pulldown exercise using a cable machine?'}","I'm sorry, but I can't provide instructions for a lat pulldown exercise using a cable machine based on the context provided. If you have any other questions or need information on different exercises, feel free to ask!","{'Relevance': 'NON_RELEVANT', 'Explanation': ""The answer does not address how to perform a lat pulldown. It only states that it cannot provide instructions and offers to answer other questions, so it is not relevant to the user's request.""}",NON_RELEVANT
+"{'id': 'seated-shoulder-press-045', 'question': 'What is the proper way to use the Seated Shoulder Press Machine for shoulder workouts?'}","I'm sorry, but the context does not provide information about using the Seated Shoulder Press Machine for shoulder workouts.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer acknowledges the question but does not provide the requested instructions on how to use the Seated Shoulder Press Machine. It is relevant only in the sense that it addresses the lack of context, but it fails to answer the actual question.'}",PARTLY_RELEVANT
+"{'id': 'hamstring-curl-023', 'question': 'How should I position my body while using the hamstring curl machine?'}","I'm sorry, but there are no specific instructions for using the hamstring curl machine in the provided context. If you need help with positioning or guidance on using the hamstring curl machine, please consult with a qualified fitness professional or refer to specific instructions available with the equipment.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': ""The answer addresses the user's question only indirectly by saying that no specific instructions are available and suggesting consulting a fitness professional. It does not provide the requested body positioning guidance, but it is still related to the hamstring curl machine topic.""}",PARTLY_RELEVANT
+"{'id': 'wall-sit-049', 'question': 'What is the primary focus of a wall sit and how does it benefit my legs and core?'}","The primary focus of a wall sit is to strengthen and build endurance in the leg muscles, particularly the quadriceps, along with engaging the core muscles. 
+
+Benefits for your legs and core include:
+
+1. **Quadriceps Strength**: Holding a wall sit position targets the quadriceps, enhancing their strength and endurance.
+
+2. **Improved Stability**: Engaging the core while maintaining the position helps to improve overall stability and balance.
+
+3. **Endurance Building**: Maintaining the static hold builds muscular endurance in both the legs and core, beneficial for various physical activities and sports.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by explaining that a wall sit primarily targets the leg muscles, especially the quadriceps, and also engages the core. It also clearly describes how it benefits the legs and core through strength, stability, and endurance.'}",RELEVANT
+"{'id': 'kettlebell-swing-011', 'question': 'Can you provide step-by-step instructions for performing kettlebell swings safely and effectively for beginners?'}","I'm sorry, but I don't have specific instructions for kettlebell swings based on the provided context. If you need guidance on other exercises within the database, feel free to ask!","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The question asks for step-by-step instructions on performing kettlebell swings safely and effectively for beginners, but the generated answer refuses to provide any instructions and only states it lacks specific guidance. It does not address the requested topic.'}",NON_RELEVANT
+"{'id': 'wall-sit-049', 'question': 'Are there any specific tips I should keep in mind while performing a wall sit to ensure proper form?'}","I'm sorry, but there is no information on wall sits in the provided context. However, I can offer some general tips for maintaining proper form during a wall sit:
+
+1. **Position:** Stand with your back against a wall and slide down until your thighs are parallel to the ground.
+2. **Knees and Feet:** Keep your knees directly above your ankles and ensure your thighs are parallel to each other. Your feet should be hip-width apart.
+3. **Back Alignment:** Keep your back flat against the wall.
+4. **Core Engagement:** Engage your core throughout the exercise to maintain stability.
+5. **Duration:** Hold the position for as long as you can maintain proper form.
+
+If you have more specific instructions or need further details, let me know!","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by providing specific tips for proper wall sit form, including posture, knee and foot placement, back alignment, core engagement, and duration.'}",RELEVANT
+"{'id': 'bicep-curl-020', 'question': 'What type of fitness equipment do I need to perform a Dumbbell Bicep Curl?'}","To perform a Dumbbell Bicep Curl, you will need dumbbells.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the required equipment for a Dumbbell Bicep Curl: dumbbells.'}",RELEVANT
+"{'id': 'incline-dumbbell-curl-044', 'question': 'Can you explain how to do an Isolation exercise like the Incline Dumbbell Curl?'}","I can't provide specific instructions for the Incline Dumbbell Curl since it’s not in the provided context. However, isolation exercises generally focus on a single muscle group by limiting the involvement of other muscle groups. For more information on specific exercises, you might need additional resources or descriptions outside of this database.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer gives a general explanation of what isolation exercises are, which is relevant to the question. However, it does not explain how to do the Incline Dumbbell Curl specifically, so it only partially addresses the request.'}",PARTLY_RELEVANT
+"{'id': 'ab-crunch-025', 'question': 'Is the Cable Crunch considered an isolation exercise, and how does it benefit my abs?'}","Based on the context provided, there is no reference to the Cable Crunch. Therefore, I can't confirm whether it is considered an isolation exercise or how it specifically benefits your abs. For accurate information on the Cable Crunch, please consult a source that includes this exercise in its database.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer addresses the question indirectly by stating that it lacks information about the Cable Crunch and cannot confirm whether it is an isolation exercise or explain its benefits. It does not actually answer the question, but it is still related to the topic and attempts to respond.'}",PARTLY_RELEVANT
+"{'id': 'leg-extension-022', 'question': 'What body part do leg extensions primarily work on, and how should I position myself?'}","I'm sorry, but the context provided does not cover leg extensions. However, generally speaking, leg extensions primarily work on the quadriceps. For performing them, you should sit on a leg extension machine with your back flush against the seat and your feet under the foot pad. Adjust the machine so that your knees are in line with the pivot point. Extend your legs fully, then lower them back to the starting position with control.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it states that leg extensions primarily work the quadriceps and explains how to position yourself on the machine.'}",RELEVANT
+"{'id': 'jump-rope-030', 'question': 'Which muscle groups are primarily activated when jumping rope?'}","The context provided does not include information on jumping rope. However, generally speaking, the primary muscle groups activated when jumping rope include the calves, quadriceps, hamstrings, glutes, core, and shoulders due to the jumping and rope-turning motions involved.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the primary muscle groups activated when jumping rope, including calves, quadriceps, hamstrings, glutes, core, and shoulders.'}",RELEVANT
+"{'id': 'bicep-curl-020', 'question': 'Can you explain the steps involved in executing a Dumbbell Bicep Curl correctly?'}","I'm sorry, but the steps for the Dumbbell Bicep Curl are not available in the provided context. If you have any other questions about exercises in the context, feel free to ask!","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not explain how to perform a Dumbbell Bicep Curl, so it fails to address the question directly. However, it is still related to the question because it acknowledges the exercise and indicates the information was not available in the context.'}",PARTLY_RELEVANT
+"{'id': 'leg-press-017', 'question': 'What type of exercise is the leg press, and what equipment do I need to do it?'}","The leg press is a type of strength exercise. To perform it, you'll typically need a leg press machine.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it identifies the leg press as a strength exercise and says that a leg press machine is needed to do it.'}",RELEVANT
+"{'id': 'step-up-035', 'question': 'Is the Dumbbell Step-Up considered a strength training exercise, and if so, what type is it?'}","Yes, the Dumbbell Step-Up is considered a strength training exercise. It is a compound exercise targeting the legs, primarily activating the quadriceps, glutes, hamstrings, calves, and core.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by confirming that the Dumbbell Step-Up is a strength training exercise and identifying it as a compound exercise, which is the type asked for.'}",RELEVANT
+"{'id': 'leg-extension-022', 'question': 'What is the proper way to perform a leg extension on a machine?'}","I'm sorry, but the context provided doesn't include details on performing a leg extension on a machine. Would you like information on another type of exercise?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer acknowledges the topic of leg extensions but does not actually explain the proper way to perform the exercise. It is only indirectly related and fails to provide the requested guidance.'}",PARTLY_RELEVANT
+"{'id': 'skull-crusher-043', 'question': 'What is the proper technique for performing a Barbell Skull Crusher for triceps development?'}","I'm sorry, but the context provided doesn't include instructions for the Barbell Skull Crusher. Would you like general tips or advice on another exercise?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not provide the proper technique for a Barbell Skull Crusher, so it fails to directly answer the question. However, it does acknowledge the exercise and indicates the missing context, making it somewhat related rather than completely off-topic.'}",PARTLY_RELEVANT
+"{'id': 'shoulder-raise-019', 'question': 'What equipment do I need to perform a Dumbbell Lateral Raise for strength training?'}","To perform a Dumbbell Lateral Raise for strength training, you will need dumbbells.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the equipment needed for a Dumbbell Lateral Raise: dumbbells.'}",RELEVANT
+"{'id': 'box-jump-031', 'question': 'How do I safely execute a box jump to avoid injuries?'}","I'm sorry, but the context provided does not contain specific information on how to execute a box jump. To ensure safety while performing box jumps generally, here are some detailed tips:
+
+1. **Warm-Up**: Always warm up with dynamic stretches before attempting box jumps to prepare your muscles and joints.
+
+2. **Choose the Right Height**: Start with a lower box and gradually increase the height as you gain confidence and strength.
+
+3. **Proper Footwear**: Wear supportive shoes with good grip to prevent slipping.
+
+4. **Landing Technique**: Land softly on the balls of your feet and bend your knees and hips to absorb the impact. Keep your knees aligned with your toes to avoid injury.
+
+5. **Engage Core and Glutes**: Activate your core and glutes to maintain stability throughout the jump.
+
+6. **Use Arm Swing**: Use your arms to help drive your momentum upwards.
+
+7. **Start Slow**: Practice the movement slowly to ensure that your form is correct before increasing speed or height.
+
+8. **Listen to Your Body**: If you feel pain or discomfort, stop the exercise and reassess your form or take a break.
+
+Please consult a fitness professional for personalized guidance.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses how to safely perform a box jump by giving practical injury-prevention advice such as warming up, starting with a lower box, proper landing mechanics, supportive footwear, and listening to the body. It is relevant to the question even though it notes the original context lacked specific information.'}",RELEVANT
+"{'id': 'plank-003', 'question': 'What body parts does the plank primarily work on during a workout?'}","The plank primarily works the core muscles, including the abdominals and lower back. It also engages the shoulders and glutes to maintain proper form.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses which body parts the plank works on, listing the core, abdominals, lower back, shoulders, and glutes. This is relevant and responsive to the question.'}",RELEVANT
+"{'id': 'step-up-035', 'question': 'What are the steps to perform a Dumbbell Step-Up correctly?'}","To perform a Dumbbell Step-Up correctly:
+
+1. **Position**: Stand in front of a box or bench holding dumbbells at your sides.
+
+2. **Step-Up**: Place one foot firmly on the surface.
+
+3. **Drive**: Press through the heel of the elevated foot to step up.
+
+4. **Balance**: Bring the other leg up with control.
+
+5. **Descend**: Step back down with control.
+
+6. **Alternate**: You can alternate legs or complete all reps on one side before switching.
+
+Make sure to keep your core engaged throughout the exercise.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing clear, correct steps for performing a Dumbbell Step-Up, including setup, stepping up, controlling the descent, and maintaining core engagement.'}",RELEVANT
+"{'id': 'rowing-machine-050', 'question': 'What muscle groups are activated when using a rowing machine?'}","The context does not specifically address rowing machines, but based on general knowledge, using a rowing machine typically activates the following muscle groups:
+
+- Back (including lats, traps, and rhomboids)
+- Core (abs and lower back)
+- Legs (quadriceps, hamstrings, and calves)
+- Arms (biceps and forearms)
+- Shoulders
+
+","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing the major muscle groups activated when using a rowing machine, including back, core, legs, arms, and shoulders. It is relevant and sufficiently responsive to the question.'}",RELEVANT
+"{'id': 'medicine-ball-slam-032', 'question': 'What equipment do I need to do a compound exercise that targets my core and legs?'}","To do a compound exercise targeting your core and legs, you can perform a **Bodyweight Squat**. This exercise requires no equipment and activates the quadriceps, glutes, hamstrings, and core.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying a compound exercise that targets the core and legs and clearly states that no equipment is needed.'}",RELEVANT
+"{'id': 'back-extension-046', 'question': 'What type of exercise is a back extension and what equipment do I need for it?'}","The database does not include information on back extensions. However, typically, a back extension is a type of strength exercise focusing on the lower back muscles. You'll generally need a back extension bench (also known as a hyperextension bench) or a stability ball to perform this exercise effectively.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it explains that a back extension is a strength exercise and identifies the equipment needed, such as a back extension bench or stability ball.'}",RELEVANT
+"{'id': 'face-pull-039', 'question': 'Is the Cable Face Pull an isolation exercise and what are the proper instructions for executing it?'}","The Cable Face Pull is typically considered an isolation exercise. However, there are no specific instructions provided for it in the context you have provided. Generally, a Cable Face Pull is performed by pulling a rope attachment towards your forehead while keeping your body upright, focusing on the rear deltoids and upper back muscles. Always maintain control of the weight and use a light to moderate load to ensure proper form and muscle engagement.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it states that the Cable Face Pull is typically considered an isolation exercise and provides general instructions for performing it properly. Although it notes that no specific instructions were provided in the context, the guidance given is still relevant and responsive to the question.'}",RELEVANT
+"{'id': 'renegade-row-048', 'question': 'Is the Renegade Row considered a compound exercise, and why?'}","The Renegade Row can be considered a compound exercise because it typically involves multiple muscle groups and joints. Though not listed in the context, a Renegade Row usually requires a push-up position and rowing motion with weights, engaging muscles in the back, arms, shoulders, and core simultaneously. Compound exercises, as shown in the context, engage multiple muscle groups, similar to the Push-Up, Pull-Up, and Bent-Over Barbell Row.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer directly addresses whether the Renegade Row is a compound exercise and explains why, which is relevant to the question. However, it relies on general fitness knowledge and explicitly notes that it is not listed in the context, so the response is only partially grounded in the provided material.'}",PARTLY_RELEVANT
+"{'id': 'hip-thrust-034', 'question': 'What muscle groups are engaged when performing the Barbell Hip Thrust?'}","The muscle groups engaged when performing the Barbell Hip Thrust are the glutes, hamstrings, and core.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing the muscle groups engaged during the Barbell Hip Thrust, which matches the requested information.'}",RELEVANT
+"{'id': 'leg-press-017', 'question': 'Can you tell me which muscle groups are targeted when performing a leg press?'}","The leg press primarily targets the following muscle groups:
+
+- Quadriceps
+- Glutes
+- Hamstrings
+- Calves
+
+This information aligns with similar leg-focused exercises in the database that engage the quadriceps, glutes, and hamstrings.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing the main muscle groups targeted by the leg press, which matches the requested information.'}",RELEVANT
+"{'id': 'ab-crunch-025', 'question': 'What steps should I follow to execute a Cable Crunch correctly to avoid using momentum?'}","I'm sorry, but the steps for a Cable Crunch are not available in the context provided. Let me know if there's anything else I can help with!","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not provide the requested steps for performing a Cable Crunch correctly, so it fails to directly answer the question. However, it is at least about the same topic by acknowledging the Cable Crunch, making it partially relevant rather than completely unrelated.'}",PARTLY_RELEVANT
+"{'id': 'farmer-carry-033', 'question': ""What are some key pointers I should keep in mind to maintain proper posture during the Farmer's Carry?""}","I'm sorry, but there are no specific details about the Farmer's Carry in the provided context. Would you like general tips on proper posture for that exercise?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': ""The answer does not actually provide the requested posture pointers for the Farmer's Carry, but it is still related to the question because it acknowledges the exercise and offers to give general posture tips. It is partially relevant, but not sufficient.""}",PARTLY_RELEVANT
+"{'id': 'farmer-carry-033', 'question': ""What equipment do I need for the Farmer's Carry, and how should I set up for this exercise?""}","I'm sorry, but the equipment and setup instructions for the Farmer's Carry exercise are not available in the provided context.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that the needed equipment and setup instructions are unavailable in the provided context, but it does not actually provide the requested information. It is relevant to the topic, yet incomplete.'}",PARTLY_RELEVANT
+"{'id': 'plank-003', 'question': 'Is it necessary to use any equipment for performing a plank exercise?'}","No, it is not necessary to use any equipment for performing a plank exercise. Like the push-up, it is a bodyweight exercise that relies on your own body for resistance.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that no equipment is necessary for a plank exercise and explains that it is a bodyweight exercise.'}",RELEVANT
+"{'id': 'seated-shoulder-press-045', 'question': 'Which muscle groups are activated when performing a Seated Shoulder Press?'}","The context provided does not include specific information on the Seated Shoulder Press. However, typically, when performing a Seated Shoulder Press, the primary muscle groups activated are the deltoids (shoulders), triceps, and upper chest. If you need more detailed context or exercises, please add them to the database!","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by naming the muscle groups activated during a Seated Shoulder Press, including the deltoids, triceps, and upper chest. Although it includes a disclaimer about missing context, the core answer is relevant and responsive.'}",RELEVANT
+"{'id': 'hip-thrust-034', 'question': 'Could you provide a step-by-step guide on how to set up and perform the Barbell Hip Thrust exercise?'}","To set up and perform the **Barbell Hip Thrust** exercise, follow these steps:
+
+1. **Setup:**
+   - Sit on the floor with your upper back resting against a bench.
+   - Roll a barbell over your legs until it is directly above your hips.
+   - Plant your feet firmly on the ground at a shoulder-width distance.
+
+2. **Positioning:**
+   - Ensure your torso is upright and the bench supports your upper back.
+   - Keep your feet flat and your knees bent at approximately 90 degrees.
+
+3. **Execution:**
+   - Drive through your heels to lift your hips upward.
+   - Extend your hips until your torso is parallel to the floor.
+
+4. **Peak Contraction:**
+   - At the top of the movement, squeeze your glutes tightly.
+   - Hold the position briefly while maintaining a strong core.
+
+5. **Lowering Phase:**
+   - Lower your hips back down with control.
+   - Avoid letting the barbell or your hips slam to the ground.
+
+6. **Repeat:**
+   - Perform the desired number of repetitions, keeping form consistent throughout.
+
+Remember to keep your core engaged and ensure the movement is driven by your glutes and hamstrings.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by providing a clear step-by-step guide for setting up and performing the Barbell Hip Thrust exercise, including setup, execution, and key form cues.'}",RELEVANT
+"{'id': 'goblet-squat-010', 'question': 'What is the Goblet Squat exercise and which muscle groups does it target?'}","The Goblet Squat exercise is not explicitly listed in the context provided. However, I can give a general description based on standard fitness knowledge. The Goblet Squat is a strength training exercise typically performed with a dumbbell or kettlebell held close to the chest. It primarily targets the quadriceps, glutes, and hamstrings, while also engaging the core for stability.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly explains what the Goblet Squat is and identifies the main muscle groups it targets, which matches the question. Even though it notes the exercise was not in the provided context, the substantive content is on-topic and sufficient.'}",RELEVANT
+"{'id': 'jump-rope-030', 'question': 'What are the benefits of using a jump rope for a full-body workout?'}","I'm sorry, but the context doesn't contain information about the benefits of using a jump rope for a full-body workout.","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The answer does not address the question about the benefits of using a jump rope. It only states that the context lacks information, so it provides no relevant content.'}",NON_RELEVANT
+"{'id': 'tricep-pushdown-021', 'question': 'Which muscle groups are primarily targeted when doing a Cable Triceps Pushdown?'}",The Cable Triceps Pushdown primarily targets the triceps muscles.,"{'Relevance': 'RELEVANT', 'Explanation': 'The answer correctly identifies the primary muscle group targeted by a Cable Triceps Pushdown as the triceps, which directly addresses the question.'}",RELEVANT
+"{'id': 'overhead-press-008', 'question': 'Can you provide instructions for doing a Barbell Overhead Press safely?'}","I'm sorry, but I don't have specific instructions for the Barbell Overhead Press in the provided context. Would you like information on another exercise listed?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer acknowledges the Barbell Overhead Press and indicates it lacks specific instructions, but it does not actually provide the requested safety instructions. It is related to the question topic, yet fails to answer it.'}",PARTLY_RELEVANT
+"{'id': 'ab-wheel-041', 'question': 'What type of equipment do I need to perform the Ab Wheel Rollout, and how should I use it?'}","The context does not mention the Ab Wheel Rollout exercise, so I can't provide specific details about the equipment or instructions. Generally, an ab wheel is used for this exercise, where you kneel and roll the wheel forward while maintaining a tight core, but for precise information, you might want to check sources specifically discussing the Ab Wheel Rollout.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the needed equipment as an ab wheel and describing basic usage. However, it also admits the context does not contain the exercise details and gives only a general, somewhat tentative explanation rather than a precise answer.'}",PARTLY_RELEVANT
+"{'id': 'sled-push-047', 'question': 'Is the sled push considered a strength training or conditioning exercise?'}",The sled push is considered both a strength and conditioning exercise.,"{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that the sled push is considered both a strength and conditioning exercise, which is a relevant and appropriate response.'}",RELEVANT
+"{'id': 'face-pull-039', 'question': 'What are the benefits of incorporating Cable Face Pulls into my shoulder workout routine?'}","I'm sorry, but the context provided does not include information about Cable Face Pulls or their benefits. If you have specific details or another source about this exercise, I’d be happy to help based on that information!","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The answer does not address the question about the benefits of Cable Face Pulls. It only states that the context lacks information and offers to help with more details, so it provides no relevant content.'}",NON_RELEVANT
+"{'id': 'sled-push-047', 'question': 'Can you give me instructions on how to perform a sled push properly?'}","To perform a sled push properly, follow these instructions:
+
+1. **Load the Sled**: Start by loading the sled with an appropriate weight for your fitness level.
+
+2. **Hand Placement**: Place your hands firmly on the poles of the sled.
+
+3. **Body Position**: Lean your body forward at an angle to create an effective force against the sled.
+
+4. **Drive Through the Floor**: Use your legs to drive through the floor, pushing the sled forward.
+
+5. **Maintain Rigidity**: Keep your torso rigid throughout the movement to maintain stability and efficiency.
+
+6. **Step Technique**: Take short, powerful steps to maximize your power output and control.
+
+7. **Distance**: Continue pushing for the desired distance or time.
+
+Remember to keep your core engaged and your movements controlled.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by giving clear, step-by-step instructions for performing a sled push properly, including body position, hand placement, pacing, and technique.'}",RELEVANT
+"{'id': 'seated-row-016', 'question': 'What is the Seated Cable Row exercise and which muscle groups does it target?'}","The Seated Cable Row exercise is not covered in the provided context, so I can't provide specifics on it. However, generally, the Seated Cable Row is designed to target the back muscles, particularly the latissimus dorsi, rhomboids, and trapezius. It also engages the biceps and forearms.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses what the Seated Cable Row exercise is and correctly identifies the main muscle groups it targets, including back muscles, biceps, and forearms. Although it mentions the lack of provided context, the substantive content still answers the question.'}",RELEVANT
+"{'id': 'box-jump-031', 'question': 'What muscle groups are activated when doing box jumps?'}","The exercise ""Box Jump"" is not explicitly listed in the CONTEXT provided. However, based on general knowledge of box jumps, this exercise typically activates the following muscle groups:
+
+- Quadriceps
+- Glutes
+- Hamstrings
+- Calves
+- Core
+
+These muscle groups work together to generate the explosive power needed for jumping onto a box or platform.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing the muscle groups activated during box jumps, including quadriceps, glutes, hamstrings, calves, and core. It is on-topic and provides the requested information.'}",RELEVANT
+"{'id': 'incline-dumbbell-curl-044', 'question': 'What type of equipment do I need for an Incline Dumbbell Curl?'}","The context provided does not include information on the Incline Dumbbell Curl. Therefore, I cannot specify the equipment needed for that exercise based on the given data.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer addresses the question only indirectly by stating that the provided context lacks information. It does not actually answer what equipment is needed for an Incline Dumbbell Curl, but it is still related to the topic and acknowledges the missing information.'}",PARTLY_RELEVANT
+"{'id': 'wall-sit-049', 'question': 'How can I perform a wall sit correctly and what muscles does it target?'}","The provided context does not include instructions for a wall sit exercise. However, I can offer general guidance:
+
+### Wall Sit Instructions:
+1. **Position**: Stand with your back flat against a wall.
+2. **Feet Placement**: Position your feet shoulder-width apart and about 2 feet from the wall.
+3. **Lowering**: Slowly slide your back down the wall until your thighs are parallel to the ground. Your knees should be directly above your ankles, forming a 90-degree angle.
+4. **Hold**: Keep your core engaged and your back pressed against the wall. Hold the position for the desired duration without using your hands to support yourself.
+
+### Muscles Targeted:
+- **Quadriceps**
+- **Hamstrings**
+- **Glutes**
+- **Core**
+
+If you want details from our exercises database, you can ask about a different exercise!","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly explains how to perform a wall sit correctly and identifies the muscles it targets. Although it mentions the context is missing, the actual guidance provided is relevant and addresses both parts of the question.'}",RELEVANT
+"{'id': 'push-up-001', 'question': 'What muscle groups are activated when doing push-ups, and how can they benefit my fitness routine?'}","Push-ups activate the chest, triceps, shoulders, and core. Including push-ups in your fitness routine can greatly enhance upper body strength, improve muscle endurance, and support a strong core, which is vital for overall stability and balance. Push-ups are a versatile exercise that requires no equipment, making them easy to incorporate into any workout plan, whether at home or in the gym.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it identifies the main muscle groups activated during push-ups (chest, triceps, shoulders, core) and explains how they benefit a fitness routine by improving upper body strength, endurance, and core stability.'}",RELEVANT
+"{'id': 'face-pull-039', 'question': 'What is the Cable Face Pull exercise and what body parts does it target?'}","I'm sorry, but the Cable Face Pull exercise is not listed in the provided context, so I can't give information about it. If you have questions about other exercises listed, feel free to ask!","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not actually explain what the Cable Face Pull exercise is or which body parts it targets, but it does address the question indirectly by stating that the exercise is not available in the provided context.'}",PARTLY_RELEVANT
+"{'id': 'squat-002', 'question': 'Can you provide instructions on how to properly perform a bodyweight squat?'}","To properly perform a bodyweight squat, follow these instructions:
+
+1. **Starting Position**: Stand with your feet shoulder-width apart and your toes slightly turned out.
+
+2. **Brace Your Core**: Engage your core muscles to maintain stability throughout the movement.
+
+3. **Initiate the Squat**: Push your hips back and start bending your knees. Imagine sitting back into a chair.
+
+4. **Lowering Down**: Lower your body until your thighs are at least parallel to the floor, keeping your chest lifted and back straight.
+
+5. **Knee Alignment**: Ensure your knees are tracking over your toes and not caving inward.
+
+6. **Driving Up**: Press through your heels to stand back up to the starting position.
+
+Remember to keep a steady pace and focus on form to avoid injuries.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by giving clear, step-by-step instructions for performing a bodyweight squat properly, including stance, core bracing, hip movement, depth, knee alignment, and standing back up.'}",RELEVANT
+"{'id': 'skull-crusher-043', 'question': 'Can you explain how to set up for a Barbell Skull Crusher using a barbell?'}","I'm sorry, but the setup for a Barbell Skull Crusher is not available in the provided context about other exercises. If you need assistance with a different question or another exercise, feel free to ask!","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The answer does not explain how to set up for a Barbell Skull Crusher. It only states that the setup is not available in the provided context and offers no relevant guidance.'}",NON_RELEVANT
+"{'id': 'rear-delt-fly-040', 'question': 'What is the best exercise to target my rear delts and improve shoulder strength?'}","The best exercise from the context to target your rear delts and improve shoulder strength is the ""Bent-Over Barbell Row."" This exercise activates the rear delts, along with the lats, rhomboids, and biceps, making it effective for building shoulder strength. To perform it, follow these instructions:
+
+- Hold a barbell with an overhand grip.
+- Hinge forward at the hips until your torso is near parallel to the floor.
+- Keep a neutral spine and knees slightly bent.
+- Pull the bar toward your lower ribs, squeezing your shoulder blades together.
+- Lower the bar slowly without rounding your back.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer is relevant to the question because it suggests an exercise that can involve the rear delts and contribute to shoulder strength. However, it may not be the best or most direct exercise for targeting rear delts specifically, since bent-over barbell rows are primarily a back exercise and the response does not address more specialized rear-delt movements or compare alternatives.'}",PARTLY_RELEVANT
+"{'id': 'seated-row-016', 'question': 'What kind of equipment do I need to perform the Seated Cable Row exercise?'}","To perform the Seated Cable Row exercise, you need a cable machine with a seated row attachment.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the equipment needed for the Seated Cable Row exercise: a cable machine with a seated row attachment.'}",RELEVANT
+"{'id': 'hamstring-curl-023', 'question': 'What equipment do I need to perform the lying hamstring curl exercise?'}","The context provided does not include specific information about the lying hamstring curl. Therefore, I cannot provide details on the equipment needed for that exercise based on the given data.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that the needed equipment information is not available in the provided context. Although it does not give the equipment itself, it is still relevant because it responds to the question about the lying hamstring curl exercise.'}",RELEVANT
+"{'id': 'romanian-deadlift-014', 'question': 'What is the Romanian Deadlift and which muscles does it target?'}","The Romanian Deadlift is a strength exercise performed with dumbbells. It targets the hamstrings, glutes, lower back, and core. The movement involves standing with a slight bend in the knees, pushing the hips back while lowering the dumbbells close to the legs with a neutral back, and returning to the starting position by driving the hips forward.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly explains what the Romanian Deadlift is and identifies the muscles it targets, which matches the question. It also adds a brief description of the movement, making it highly relevant.'}",RELEVANT
+"{'id': 'box-jump-031', 'question': 'Can you provide me with instructions on how to properly perform a box jump?'}","I'm sorry, but the context provided does not include instructions for performing a box jump. Would you like information on a different exercise from the context?","{'Relevance': 'NON_RELEVANT', 'Explanation': ""The answer does not provide any instructions on how to perform a box jump. It only states that the needed context is missing and offers to discuss a different exercise, so it fails to address the user's request.""}",NON_RELEVANT
+"{'id': 'goblet-squat-010', 'question': 'Can you provide me with the proper technique for performing a Goblet Squat?'}","I'm sorry, but information about the technique for performing a Goblet Squat is not available in the provided context. Please let me know if you need details about any of the listed exercises!","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The question asks for proper technique for performing a Goblet Squat, but the generated answer does not provide any technique details. It only states that the information is unavailable in the context and offers a generic follow-up.'}",NON_RELEVANT
+"{'id': 'lat-pulldown-015', 'question': 'Is the lat pulldown considered a compound exercise, and how does it benefit my back strength?'}","Based on the context provided, the lat pulldown is not explicitly listed, but similar exercises like the pull-up and bent-over barbell row are discussed. Both are compound exercises focusing on the back, indicating that lat pulldowns, which engage similar muscle groups (primarily the latissimus dorsi), are also compound exercises. 
+
+Compound exercises involve multiple joints and muscle groups, improving overall back strength and coordination. Lat pulldowns specifically target the lats, aiding in the development of a stronger and broader back, which can improve posture and upper body strength.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer addresses the question by stating that the lat pulldown is a compound exercise and explaining how it can help back strength. However, it qualifies this with unrelated context about other exercises and notes that lat pulldown is not explicitly listed, so the response is somewhat indirect rather than directly grounded in the question.'}",PARTLY_RELEVANT
+"{'id': 'shoulder-raise-019', 'question': 'What muscle groups are activated when performing a Dumbbell Lateral Raise?'}","The Context does not provide specific information about the Dumbbell Lateral Raise. However, typically, the Dumbbell Lateral Raise primarily targets the lateral deltoids, which are part of the shoulder muscles.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the muscle group activated during a Dumbbell Lateral Raise, namely the lateral deltoids/shoulders. Although it notes that the context is missing, the substantive content is relevant to the question.'}",RELEVANT
+"{'id': 'assisted-dip-037', 'question': 'What type of exercise is an assisted dip and which body parts does it work on?'}","The exercise ""Assisted Dip"" is not directly listed in the provided context. However, typically, an assisted dip is a strength exercise targeting primarily the triceps, chest, and shoulders. It is performed using a dip machine with assistance to help support your body weight.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses what an assisted dip is by identifying it as a strength exercise and explains the main body parts it works on: triceps, chest, and shoulders. Although it notes the term is not in the provided context, the response still answers the question accurately and on topic.'}",RELEVANT
+"{'id': 'chest-press-machine-018', 'question': 'Which muscle groups are primarily worked when using the chest press machine?'}","The primary muscle groups worked when using the chest press machine are the chest, triceps, and shoulders.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the primary muscle groups worked by the chest press machine: chest, triceps, and shoulders.'}",RELEVANT
+"{'id': 'high-knees-029', 'question': 'What type of equipment do I need for the high knees exercise?'}","For the high knees exercise, no equipment is needed. You just use your bodyweight to perform the exercise.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that no equipment is needed for high knees and that it is a bodyweight exercise.'}",RELEVANT
+"{'id': 'step-up-035', 'question': 'What body parts are targeted when performing the Dumbbell Step-Up with dumbbells?'}","The Dumbbell Step-Up targets the following body parts: quadriceps, glutes, hamstrings, calves, and core.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by listing the body parts targeted during the Dumbbell Step-Up. It is specific, complete, and contextually aligned with the question.'}",RELEVANT
+"{'id': 'plank-003', 'question': 'What is the proper technique for performing a plank exercise?'}","The context didn't provide specific instructions for a plank exercise. However, I can share general techniques for performing a plank:
+
+1. **Position**: Start by lying face down. Position your elbows directly under your shoulders and place your forearms on the ground. Keep your feet a few inches apart and toes tucked.
+
+2. **Alignment**: Engage your core to lift your body off the ground, keeping a straight line from your head to your heels. Avoid sagging or arching your back.
+
+3. **Hold**: Keep your neck neutral, avoiding looking up or letting your head drop. Hold this position for the desired time, maintaining tension in your core.
+
+4. **Breathing**: Remember to breathe normally throughout the exercise.
+
+For specific variations or adjustments, consulting a detailed source or personal trainer would be beneficial.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly explains the proper technique for performing a plank, including body position, alignment, holding form, and breathing. It addresses the question well despite a brief disclaimer.'}",RELEVANT
+"{'id': 'farmer-carry-033', 'question': ""Which muscle groups are activated when doing the Farmer's Carry, and how does it benefit my full body workout?""}","The context does not provide specific details about the Farmer's Carry. However, typically, the Farmer's Carry primarily activates the grip, forearms, traps, shoulders, core, and legs. As part of a full-body workout, it enhances overall strength, endurance, and stability by engaging multiple muscle groups and improving grip strength and core stability.","{'Relevance': 'RELEVANT', 'Explanation': ""The answer directly addresses the question by identifying the muscle groups involved in the Farmer's Carry and explaining how it benefits a full-body workout through improved strength, endurance, stability, grip strength, and core activation.""}",RELEVANT
+"{'id': 'dumbbell-lunge-007', 'question': 'What type of equipment do I need for the Dumbbell Reverse Lunge exercise?'}","To perform the Dumbbell Reverse Lunge exercise, you'll need dumbbells.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly identifies the required equipment for the Dumbbell Reverse Lunge exercise: dumbbells. This fully addresses the question.'}",RELEVANT
+"{'id': 'jumping-jacks-028', 'question': 'Can you tell me how to perform jumping jacks and what muscles they target?'}","I'm sorry, the provided context does not contain information on how to perform jumping jacks or the muscles they target.","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The answer does not address the question at all; it only states that the context lacks information. It provides neither instructions for performing jumping jacks nor information about the muscles targeted.'}",NON_RELEVANT
+"{'id': 'hip-thrust-034', 'question': 'Can you explain how to safely execute the Barbell Hip Thrust using a bench and barbell?'}","To safely execute the Barbell Hip Thrust using a bench and barbell, follow these steps:
+
+1. **Setup**: Sit on the floor with your upper back against a bench. Place a barbell over your hips. You can use a pad on the barbell for comfort.
+
+2. **Foot Position**: Plant your feet shoulder-width apart, keeping them flat on the ground.
+
+3. **Lift**: Drive through your heels to lift your hips up until your torso is parallel to the floor.
+
+4. **Top Position**: Squeeze your glutes at the top of the movement, ensuring your body forms a straight line from shoulders to knees.
+
+5. **Lower**: Lower your hips back down under control.
+
+By following these instructions, you can perform the Barbell Hip Thrust safely and effectively.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly explains how to safely perform a Barbell Hip Thrust using a bench and barbell, including setup, foot placement, lifting, top position, and lowering control. It addresses the question clearly and on-topic.'}",RELEVANT
+"{'id': 'leg-press-017', 'question': 'How should I position my feet and body when using the leg press machine?'}","I'm sorry, but I don't have information on using a leg press machine in the context provided. For general advice, ensure your feet are typically shoulder-width apart, and keep your knees in line with your toes without locking them during the extension. Always follow specific machine guidelines and consult with a trainer if needed.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses foot and body positioning for the leg press machine by giving specific guidance on foot placement, knee alignment, and avoiding locking the knees. Although it begins with a disclaimer, the actual content is relevant to the question.'}",RELEVANT
+"{'id': 'rear-delt-fly-040', 'question': 'Can you give me step-by-step instructions for performing a Bent-Over Dumbbell Rear Delt Fly?'}","I'm sorry, but the context provided doesn't contain instructions for performing a Bent-Over Dumbbell Rear Delt Fly. Would you like information on a different exercise?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not provide the requested step-by-step instructions, so it fails to directly address the question. However, it is related to the topic because it acknowledges the specific exercise and offers to provide alternative information.'}",PARTLY_RELEVANT
+"{'id': 'hip-thrust-034', 'question': 'What is the proper way to perform a Barbell Hip Thrust to effectively target my glutes?'}","To perform a Barbell Hip Thrust effectively to target your glutes:
+
+1. **Setup**: Sit on the floor with your upper back against a bench. Position a barbell over your hips.
+2. **Foot Position**: Plant your feet shoulder-width apart in front of you.
+3. **Lift**: Drive through your heels to lift your hips until your torso is parallel to the floor.
+4. **Engage**: Squeeze your glutes at the top of the movement.
+5. **Control**: Lower your hips back down in a controlled manner.
+
+Ensure your core is engaged throughout the exercise for stability.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly explains the proper setup and execution of a Barbell Hip Thrust, including foot placement, hip drive, glute engagement, and controlled lowering, which matches the question about effectively targeting the glutes.'}",RELEVANT
+"{'id': 'medicine-ball-slam-032', 'question': 'What is a great power exercise that utilizes a medicine ball for a full body workout?'}","The context provided doesn't mention a specific power exercise using a medicine ball. However, a great power exercise that often utilizes a medicine ball for a full-body workout is the ""Medicine Ball Slam."" This exercise engages major muscle groups and enhances explosive power, making it an effective choice for a complete body workout.
+
+If you're interested, this exercise generally involves lifting a medicine ball overhead and forcefully slamming it into the ground, engaging the core, arms, and legs throughout the movement.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly identifies a power exercise that uses a medicine ball for a full-body workout: the Medicine Ball Slam. It also explains how it works and why it fits the question.'}",RELEVANT
+"{'id': 'tricep-pushdown-021', 'question': 'What are the proper instructions for performing a Cable Triceps Pushdown exercise?'}","I'm sorry, but the context provided does not include the instructions for performing a Cable Triceps Pushdown exercise.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not provide the exercise instructions requested, but it is still related to the question because it acknowledges the specific exercise and indicates the missing information.'}",PARTLY_RELEVANT
+"{'id': 'mountain-climber-026', 'question': 'What are the instructions for performing a Mountain Climber exercise correctly?'}",The context provided does not include instructions for performing the Mountain Climber exercise. Please consult a reliable source or fitness guide for proper instructions on how to perform Mountain Climbers correctly.,"{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer addresses the question only indirectly by stating that the needed instructions are not available in the provided context. It does not actually explain how to perform the Mountain Climber exercise, so it is only partially relevant.'}",PARTLY_RELEVANT
+"{'id': 'dumbbell-bench-press-005', 'question': 'Is the dumbbell bench press considered a compound exercise, and if so, why?'}","Yes, the dumbbell bench press is considered a compound exercise. While the specific database you provided does not directly mention this exercise, we can infer that it is similar to other compound exercises listed, like the barbell row or push-up. Compound exercises involve multiple joints and muscle groups. In the case of the dumbbell bench press, it typically works the chest, triceps, and shoulders simultaneously, similar to other exercises mentioned in your context.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that the dumbbell bench press is a compound exercise and explaining why: it involves multiple joints and muscle groups, specifically the chest, triceps, and shoulders.'}",RELEVANT
+"{'id': 'mountain-climber-026', 'question': 'Which muscle groups are activated when I do Mountain Climbers?'}","Mountain climbers primarily activate the following muscle groups:
+
+1. **Core**: Engaged to stabilize your body as you perform the exercise.
+2. **Shoulders**: Stabilize your upper body in the plank position.
+3. **Quadriceps**: Involved as you drive your knees toward your chest.
+4. **Glutes**: Assist in controlling the movement of your legs.
+5. **Hamstrings**: Help in the knee-driving motion.
+6. **Calves**: Engaged during the dynamic movement of the exercise.","{'Relevance': 'RELEVANT', 'Explanation': ""The answer directly addresses the question by listing the muscle groups activated during mountain climbers, which matches the user's request.""}",RELEVANT
+"{'id': 'squat-002', 'question': 'Can you explain the correct form and technique for a bodyweight squat?'}","To perform a bodyweight squat correctly, follow these steps:
+
+1. **Starting Position**: Stand with your feet shoulder-width apart and toes slightly turned out.
+
+2. **Engage Core**: Brace your core to maintain stability throughout the movement.
+
+3. **Initiate the Squat**: Push your hips back first, as if sitting into a chair, then start bending your knees.
+
+4. **Lowering**: Continue lowering your body until your thighs are at least parallel to the floor.
+
+5. **Body Alignment**: Keep your chest lifted and ensure your knees track over your toes without collapsing inward.
+
+6. **Ascent**: Drive through your heels, pressing up to return to the starting position.
+
+7. **Repetition**: Repeat for the desired number of reps, maintaining form throughout.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly explains the correct form and technique for a bodyweight squat, including stance, core engagement, hip hinge, depth, knee alignment, and ascent. It appropriately addresses the question with clear, relevant guidance.'}",RELEVANT
+"{'id': 'skull-crusher-043', 'question': 'What are the key instructions to follow when doing a Barbell Skull Crusher to ensure safe execution?'}","I'm sorry, but the specific instructions for the Barbell Skull Crusher are not available in the provided context. Please refer to another source or specify a different exercise for guidance.","{'Relevance': 'NON_RELEVANT', 'Explanation': ""The question asks for key safety instructions for performing a Barbell Skull Crusher, but the generated answer does not provide any instructions. It only states that the information is unavailable and suggests using another source, so it does not address the question's content.""}",NON_RELEVANT
+"{'id': 'tricep-pushdown-021', 'question': 'Is the Cable Triceps Pushdown considered an isolation exercise and how should I position my arms during it?'}","The Cable Triceps Pushdown is indeed considered an isolation exercise as it primarily targets the triceps.
+
+For proper arm positioning:
+- Keep your elbows close to your body.
+- Start with your arms bent at a 90-degree angle.
+- Push the cable down by extending your arms fully while keeping your elbows stationary.
+- Return to the starting position with control.
+
+This focuses the movement on the triceps, minimizing the involvement of other muscle groups.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it confirms that the Cable Triceps Pushdown is an isolation exercise and explains how to position the arms during the movement (elbows close to the body, stationary, with controlled extension).'}",RELEVANT
+"{'id': 'box-jump-031', 'question': 'What type of exercise is a box jump and what equipment do I need for it?'}","The context does not provide specific information about box jumps. However, generally, a box jump is a plyometric exercise often used for building explosive leg power and strength. The primary equipment needed is a sturdy box or platform of varying heights that you can safely jump onto and off from.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it identifies a box jump as a plyometric exercise and states that it requires a sturdy box or platform. Although it notes the context lacks specifics, the response still provides the relevant information asked for.'}",RELEVANT
+"{'id': 'face-pull-039', 'question': 'Can you explain how to perform the Cable Face Pull correctly?'}","I'm sorry, but there are no details on how to perform the Cable Face Pull in the provided context. If you have more information or another question, feel free to ask!","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The answer does not explain how to perform a Cable Face Pull. It only states that no details are available in the provided context and does not address the user’s request.'}",NON_RELEVANT
+"{'id': 'jumping-jacks-028', 'question': 'What is a good cardio exercise that I can do without any equipment?'}","A good cardio exercise that you can do without any equipment is the **Burpee**. It provides a full-body workout and boosts your heart rate effectively. Here’s how to do it:
+
+1. Stand tall.
+2. Squat down and place your hands on the floor.
+3. Jump your feet back into a plank position.
+4. Optionally perform a push-up.
+5. Jump your feet back toward your hands.
+6. Explode upward with a small jump.
+7. Land softly and repeat.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by suggesting a cardio exercise that requires no equipment. Burpees are a valid bodyweight cardio exercise, and the response explains how to do them.'}",RELEVANT
+"{'id': 'hamstring-curl-023', 'question': 'Can you explain how to properly perform a lying hamstring curl on a machine?'}","I'm sorry, but there aren't details available for performing a lying hamstring curl on a machine in the provided context. Please let me know if you have other questions or need information on a different exercise.","{'Relevance': 'NON_RELEVANT', 'Explanation': ""The question asks for instructions on how to properly perform a lying hamstring curl on a machine, but the generated answer does not provide any exercise instructions. It only says the information is not available and redirects to other questions, so it does not address the user's request.""}",NON_RELEVANT
+"{'id': 'rowing-machine-050', 'question': 'How does rowing compare to other cardio workouts in terms of effectiveness?'}","The context provided from the exercises database doesn't specifically address how rowing compares to other cardio workouts in terms of effectiveness. It mainly lists various strength and conditioning exercises, detailing their movements and muscle groups activated.
+
+To assess rowing's effectiveness as a cardio workout relative to others, additional information would be needed. Generally, rowing is known to be a highly effective cardiovascular exercise that also engages multiple muscle groups, providing both aerobic and strength benefits.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer addresses the question at a high level by saying rowing is generally a highly effective cardio workout and mentions its aerobic and strength benefits. However, it does not actually compare rowing to other cardio workouts in a substantive way, and much of the response focuses on the lack of context rather than answering the comparison directly.'}",PARTLY_RELEVANT
+"{'id': 'glute-bridge-013', 'question': ""What are the benefits of doing a glute bridge, and how do I ensure I'm doing it correctly?""}","I'm sorry, the database didn't provide details on the benefits or instructions for a glute bridge. If you're interested, I can provide a general explanation based on common fitness knowledge. Let me know!","{'Relevance': 'NON_RELEVANT', 'Explanation': 'The answer does not address the question’s content. It only says the database lacked details and offers to provide a general explanation later, without giving any benefits or correctness guidance for doing a glute bridge.'}",NON_RELEVANT
+"{'id': 'pull-up-004', 'question': 'What are the proper instructions for performing a Pull-Up exercise effectively?'}","To perform a Pull-Up exercise effectively, follow these instructions:
+
+1. **Grip the Bar**: Use an overhand grip slightly wider than shoulder-width apart with your palms facing away from you.
+
+2. **Dead Hang Start**: Begin with your body in a dead hang, ensuring your shoulders are engaged.
+
+3. **Pull-Up Motion**: Pull your chest toward the bar by driving your elbows down and back.
+
+4. **Controlled Descent**: Lower yourself under control back to a full hang.
+
+Keep your core engaged throughout the movement for stability.","{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing clear, correct instructions for performing a Pull-Up effectively, including grip, starting position, movement, descent, and core engagement.'}",RELEVANT
+"{'id': 'bent-over-row-009', 'question': 'Can you explain how to properly perform the Bent-Over Barbell Row?'}","To properly perform the Bent-Over Barbell Row:
+
+1. **Grip the Barbell**: Use an overhand grip, hands about shoulder-width apart.
+2. **Position Your Body**: Hinge forward at the hips until your torso is nearly parallel to the floor. Keep your knees slightly bent and your back in a neutral position.
+3. **Perform the Row**: Pull the barbell toward your lower ribs, focusing on squeezing your shoulder blades together.
+4. **Control the Movement**: Lower the barbell slowly back to the starting position without rounding your back.
+
+Maintain a strong core throughout the exercise to support your lower back.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly explains how to perform the Bent-Over Barbell Row with appropriate setup, movement, and safety cues. It is clearly relevant and addresses the question well.'}",RELEVANT
+"{'id': 'pistol-squat-042', 'question': 'Can you explain the benefits of doing Pistol Squats for my leg muscles?'}","I'm sorry, but the context provided doesn't contain any specific information about pistol squats or their benefits for leg muscles. If you need information on a different exercise, please let me know.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': ""The answer does not explain the benefits of pistol squats, so it fails to address the user's question directly. However, it is still loosely related because it acknowledges the topic of pistol squats and indicates that the needed information is unavailable.""}",PARTLY_RELEVANT
+"{'id': 'leg-extension-022', 'question': 'What type of exercise is a leg extension, and what equipment do I need to use for it?'}","The leg extension is not mentioned in the given context. However, typically, a leg extension is an isolation strength exercise that primarily targets the quadriceps. The equipment required for it is a leg extension machine.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it identifies a leg extension as an isolation strength exercise and says it requires a leg extension machine.'}",RELEVANT
+"{'id': 'leg-press-017', 'question': 'What is the correct way to use a leg press machine for effective leg workouts?'}","I'm sorry, but the specific instructions for using a leg press machine aren't included in the provided context. Would you like some general guidance on leg workouts instead?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not explain how to correctly use a leg press machine, so it fails to directly answer the question. However, it is still loosely related because it acknowledges the topic of leg workouts and offers to provide general guidance.'}",PARTLY_RELEVANT
+"{'id': 'kettlebell-swing-011', 'question': 'What kind of exercise is a kettlebell swing classified as, and how does it help in building strength and cardio fitness?'}","The kettlebell swing is classified as a compound exercise. It effectively combines strength and cardio fitness, enhancing muscular power and endurance. The dynamic swinging motion elevates the heart rate, providing cardiovascular benefits, while engaging multiple muscle groups like the glutes, hamstrings, core, and shoulders to build strength.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses both parts of the question: it identifies the kettlebell swing as a compound exercise and explains how it builds strength and cardio fitness by engaging multiple muscle groups and elevating heart rate.'}",RELEVANT
+"{'id': 'barbell-deadlift-006', 'question': 'Can you explain the muscle groups that are activated during a barbell deadlift?'}","I'm sorry, but the context does not provide information about the muscle groups activated during a barbell deadlift.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by referring to the muscle groups activated during a barbell deadlift, even though it does so by stating that the context lacks the information. It is on-topic and relevant to the asked subject.'}",RELEVANT
+"{'id': 'seated-row-016', 'question': 'Can you explain the proper technique for performing a Seated Cable Row?'}","I'm sorry, but the context you provided does not include the Seated Cable Row exercise. Would you like information on another exercise?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not explain the proper technique for a Seated Cable Row, so it fails to directly address the question. However, it acknowledges the topic and indicates missing context rather than being entirely unrelated.'}",PARTLY_RELEVANT
+"{'id': 'bent-over-row-009', 'question': 'Is the Bent-Over Barbell Row considered a compound exercise, and if so, why?'}","Yes, the Bent-Over Barbell Row is considered a compound exercise. This is because it activates multiple muscle groups simultaneously, including the lats, rhomboids, rear delts, and biceps. Compound exercises involve multiple joints and muscle groups, making them efficient for overall strength building and coordination.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating that the Bent-Over Barbell Row is a compound exercise and explains why: it uses multiple muscle groups and joints simultaneously.'}",RELEVANT
+"{'id': 'dumbbell-bench-press-005', 'question': 'What are the key instructions I should follow to safely perform a dumbbell bench press?'}","I'm sorry, but the context does not provide instructions for a dumbbell bench press. Would you like guidance on another exercise from the list provided?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not actually provide the requested safety instructions for a dumbbell bench press, so it fails to address the question substantively. However, it is at least related to the topic of exercise guidance and acknowledges the missing context, making it partially relevant rather than completely off-topic.'}",PARTLY_RELEVANT
+"{'id': 'push-up-001', 'question': ""I'm looking to incorporate a compound exercise that targets my shoulders as well; can you suggest one?""}","For targeting your shoulders with a compound exercise, you can incorporate **Push-Ups**. This bodyweight exercise also engages your chest, triceps, and core, providing a comprehensive upper body workout.
+
+Here's how to perform a Push-Up:
+
+1. Start in a high plank position with your hands slightly wider than shoulder-width apart.
+2. Keep your body in a straight line from your head to your heels.
+3. Lower your chest toward the floor by bending your elbows, keeping them close to your body.
+4. Pause briefly at the bottom, then press through your palms to return to the starting position.
+5. Ensure your core remains braced throughout the movement.","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does suggest a compound exercise and mentions shoulder involvement, but push-ups are not primarily a shoulder-focused exercise and the response does not clearly address a stronger shoulder-targeting compound movement like overhead press, push press, or pike push-up.'}",PARTLY_RELEVANT
+"{'id': 'skull-crusher-043', 'question': 'What type of exercise is a Barbell Skull Crusher, and how does it target the arms?'}","The Barbell Skull Crusher is not described in the provided context. However, generally, it is known as a strength exercise that targets the triceps. It involves lying on a bench and extending the barbell from a bent-arm position above the forehead to a fully extended position, effectively isolating and working the triceps muscles.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly identifies the Barbell Skull Crusher as a strength exercise and correctly explains that it primarily targets the triceps in the arms by isolating them during the lifting motion. It addresses both parts of the question.'}",RELEVANT
+"{'id': 'goblet-squat-010', 'question': 'What step-by-step instructions should I follow to safely perform a Goblet Squat?'}","I'm sorry, but the instructions for performing a Goblet Squat aren't available in the provided context. Would you like to know about any other exercise listed?","{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer does not provide the requested step-by-step instructions for safely performing a Goblet Squat, so it fails to satisfy the main query. However, it does acknowledge the exercise mentioned in the question and responds in a related way, making it partially relevant rather than completely unrelated.'}",PARTLY_RELEVANT
+"{'id': 'jump-rope-030', 'question': 'What equipment do I need to perform jump rope workouts effectively?'}","To perform jump rope workouts effectively, you will need a jump rope. There are no additional details provided in the context, but here are some general tips:
+
+1. **Select the Right Rope**: Choose a rope that is the correct length for your height.
+2. **Wear Proper Footwear**: Use supportive athletic shoes to minimize impact.
+3. **Consider the Surface**: Perform on a surface that provides some cushioning, like an exercise mat or gym floor, to protect your joints.
+
+If you need further customization or tips, let me know!","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by stating the essential equipment needed for jump rope workouts and adds useful related equipment guidance such as proper footwear and suitable surface.'}",RELEVANT
+"{'id': 'rear-delt-fly-040', 'question': 'Which muscle groups are activated when I do the Bent-Over Dumbbell Rear Delt Fly?'}","The Bent-Over Dumbbell Rear Delt Fly primarily activates the rear deltoid muscles. While it's not listed explicitly in the context provided, exercises focusing on rear delt activation often also engage the upper back and rhomboids, as seen similarly in the Bent-Over Barbell Row context, where rear delts are mentioned alongside upper back muscles.","{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question by identifying the primary muscle group worked in the Bent-Over Dumbbell Rear Delt Fly as the rear deltoids, and it also reasonably mentions secondary involvement of the upper back and rhomboids. This is relevant and useful for the asked exercise.'}",RELEVANT
